@@ -134,7 +134,7 @@ kagoshima_coordinates = {latitude = "32.063857", longitude = "130.615639"}
 
 # Kobe contact details. To hide a field, clear it to "".
 # kobe_website = ""
-# kobe_email = ""
+kobe_email = "ywamkobe@gmail.com"
 # kobe_phone = "888 888 88 88"
 kobe_address = {street = "", city = "Kobe", region = "Hyogo", postcode = "", country = "Japan", country_code = "JP"}
 kobe_coordinates = {latitude = "34.691391", longitude = "135.19628"}

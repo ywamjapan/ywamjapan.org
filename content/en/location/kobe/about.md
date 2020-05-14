@@ -49,10 +49,18 @@ subtitle = ""
  css_class = ""
 +++
 
-New YWAM location in Kobe.
+(Above Photo Credit: David Theodor Thorsen)
+
+**Mission Statement**
+
+The team is called to be a worshipping community that will open spiritual gates, evangelize, disciple and send out missionaries starting in Kobe, to Japan’s other cities and to the nations beyond.
+
+**Vision**
+
+Our team’s vision is to start a disciple-making movement in Kobe, and a missions sending movement from Kobe to the surrounding cities in the Kansai region and the nations beyond.
 
 ## Details
 
-* **Language(s):** Chinese, English
+* **Language(s):** English
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai
-* **Last Updated:** 2020-04-13
+* **Last Updated:** 2020-05-14
