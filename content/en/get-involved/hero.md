@@ -51,4 +51,4 @@ title = "You were created to transform the world."
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-参加する
+Get Involved
