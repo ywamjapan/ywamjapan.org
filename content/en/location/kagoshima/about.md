@@ -49,8 +49,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Kagoshima Church Planting Team
-Hope Chapel in Kagoshima and Isa cities
+Hope Chapel is a church connected to YWAM Japan. The pioneering mission began in 1995 and is currently based in Isa City (Hope Chapel Oguchi) and Kagoshima City (Hope Chapel Kagoshima), where we worship and gather together.
 
 [Visit Website](http://hopekago.luna.weblife.me/index.html)
 
@@ -58,4 +57,4 @@ Hope Chapel in Kagoshima and Isa cities
 
 * **Language(s):** Korean, Japanese, English
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Kagoshima, Kyushu
-* **Last Updated:** 2020-04-22
+* **Last Updated:** 2020-05-27
