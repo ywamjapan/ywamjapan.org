@@ -51,7 +51,7 @@ subtitle = "A world of opportunities"
 
 After the [Discipleship Training School]({{< ref "/dts/index.md" >}}), spend two or more years journeying alongside a community of people who desperately want to serve Jesus in Japan with their whole lives.
 
-Deepen your training for what God is leading you into. Learn by doing. Start something new Japan.
+Deepen your training for what God is leading you into. Learn by doing. Start something new in Japan.
 
 Feeling called to Japan? Consider coming to Japan either for a few weeks, a couple of years, or your whole life!
 
