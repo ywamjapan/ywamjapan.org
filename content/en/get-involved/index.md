@@ -1,4 +1,4 @@
 ---
-title: 参加する
+title: Get Involved
 type: "widget_page"
 ---
