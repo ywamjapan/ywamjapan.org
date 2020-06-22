@@ -57,10 +57,10 @@ The team is called to be a worshipping community that will open spiritual gates,
 
 **Vision**
 
-Our team’s vision is to start a disciple-making movement in Kobe, and a missions sending movement from Kobe to the surrounding cities in the Kansai region and the nations beyond.
+Our team’s vision is to start a disciple-making movement in Kobe, and a missions sending movement from Kobe to other cities across Japan and to the nations beyond.
 
 ## Details
 
 * **Language(s):** English
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai
-* **Last Updated:** 2020-05-14
+* **Last Updated:** 2020-06-22
