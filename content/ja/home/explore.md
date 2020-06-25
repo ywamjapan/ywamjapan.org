@@ -15,8 +15,8 @@ page_type = "widget_page"
 name = "場所"
 tag = "Location"
 [[content.filter_button]]
-name = "DTS"
-tag = "DTS"
+name = "学校"
+tag = "Training"
 [design]
 columns = "2"
 flip_alt_rows = false
