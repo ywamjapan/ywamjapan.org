@@ -24,7 +24,7 @@ subtitle = "What We Do"
   icon = "bible"
   icon_pack = "fas"
   name = "Training"
-  description = "Our introductory course, the Discipleship Training School (YWAM DTS), is offered in many nations and languages. It’s an intensive six months of growing more like Jesus and serving Him in the world.<br /><br />Through our training programs and YWAM’s YWAM’s University of the Nations we aim to equip Christians to grow in their relationship with God and to serve others. Our courses focus on subjects like healthcare, the Bible, business development and biblical counseling."  
+  description = "Our introductory course, the Discipleship Training School (YWAM DTS), is offered in many nations and languages. It’s an intensive six months of growing more like Jesus and serving Him in the world.<br /><br />Through our training programs and YWAM’s University of the Nations we aim to equip Christians to grow in their relationship with God and to serve others. Our courses focus on subjects like healthcare, the Bible, business development and biblical counselling."  
 
 [[feature]]
   icon = "heart"
