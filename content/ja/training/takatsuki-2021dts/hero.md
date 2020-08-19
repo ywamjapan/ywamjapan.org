@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "弟子訓練学校２０２０年"
+title = "弟子訓練学校２０２１年"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "hero-academic.png"
@@ -51,4 +51,4 @@ title = "弟子訓練学校２０２０年"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-学校｜２０２０年９月２３日｜大阪府北部・高槻市
+学校｜２０２１年１月｜大阪府北部・高槻市

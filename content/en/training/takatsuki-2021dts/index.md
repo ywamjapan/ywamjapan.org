@@ -1,6 +1,6 @@
 ---
-title: 2020 DTS
-summary: Training | 23 Sep 2020 - Takatsuki City, North Osaka
+title: 2021 DTS
+summary: Training | Jan 2021 - Takatsuki City, North Osaka
 type: "widget_page"
 tags: ["Explore", "Kansai", "Takatsuki", "Training", "DTS"]
 ---
