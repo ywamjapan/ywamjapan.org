@@ -196,6 +196,13 @@ tokyo_email = "info@ywamtokyo.org"
 tokyo_address = {street = "1-17-7 Shinkawacho", city = "Higashikurume", region = "Tokyo", postcode = "203-0013", country = "Japan", country_code = "JP"}
 tokyo_coordinates = {latitude = "35.758914", longitude = "139.538747"}
 
+# Yokohama contact details. To hide a field, clear it to "".
+# yokohama_website = ""
+# yokohama_email = ""
+# yokohama_phone = "888 888 88 88"
+yokohama_address = {street = "", city = "Yokohama-shi", region = "Kanagawa-ken", postcode = "", country = "Japan", country_code = "JP"}
+yokohama_coordinates = {latitude = "35.45319141973333", longitude = "139.64522842119422"}
+
 ############################
 ## Social
 ############################
