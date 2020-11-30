@@ -21,7 +21,7 @@ A vision of YWAM is to establish ministries and disciple-making movements (churc
 
 # Omega Zones in Japan
 
-Japan has a total of 53 Omega Zones. Currently 42 Omega Zones have no YWAM ministries.
+Japan has a total of 53 Omega Zones. Currently 41 Omega Zones have no YWAM ministries.
 
 Here you can find a table detailing all of the Omega Zones in Japan, separated by region. The Major Metropolitan Areas (MMAs) have also been highlighted as these are key areas to focus on.
 
@@ -38,12 +38,12 @@ Updated: 2020-05-02
 |                  | Iwate              | 1,226,430        |                      |                  |                 |
 |                  | **Miyagi**         | 2,303,160        | YWAM Sendai          | Sendai           | 2,256,964 (7th) |
 |                  | Yamagata           | 1,077,057        |                      |                  |                 |
-| **Kanto**        |                    | **43,509,714**   | **2**                |                  |                 |
+| **Kanto**        |                    | **43,509,714**   | **3**                |                  |                 |
 |                  | Chiba              | 6,279,026        |                      | Kanto            |                 |
 |                  | Gumma              | 1,937,626        |                      |                  |                 |
 |                  | Ibaraki            | 2,868,041        |                      |                  |                 |
 |                  | Kanagawa (West)    | 4,601,262        |                      | Kanto            |                 |
-|                  | Kanagawa (East)    | 4,601,262        |                      | Kanto            |                 |
+|                  | Kanagawa (East)    | 4,601,262        | YWAM Yokohama        | Kanto            |                 |
 |                  | Saitama (East)     | 3,668,665        |                      | Kanto            |                 |
 |                  | Saitama (West)     | 3,668,665        |                      | Kanto            |                 |
 |                  | Tochigi            | 1,942,312        |                      |                  |                 |
@@ -91,4 +91,4 @@ Updated: 2020-05-02
 |                  | Oita               | 1,134,431        | YWAM Oita            |                  |                 |
 |                  | Okinawa            | 1,455,799        | YWAM Okinawa         |                  |                 |
 |                  | Saga               | 814,211          |                      |                  |                 |
-| **JAPAN**        |                    | **126,244,172**  | **11/53**            |                  |                 |
+| **JAPAN**        |                    | **126,244,172**  | **12/53**            |                  |                 |
