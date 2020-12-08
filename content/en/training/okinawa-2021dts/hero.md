@@ -51,4 +51,4 @@ title = "International Discipleship Training School"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-April 2021
+October 2021

@@ -51,4 +51,4 @@ title = "弟子訓練学校２０２１年"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-学校｜２０２１年の春｜宮城県・仙台市
+学校｜２０２１年｜宮城県・仙台市

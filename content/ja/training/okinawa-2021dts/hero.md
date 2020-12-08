@@ -51,4 +51,4 @@ title = "インターナショナルDTS"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-学校｜２０２１年４月｜沖縄県・うるま市
+学校｜２０２１年１０月｜沖縄県・うるま市

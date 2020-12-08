@@ -56,10 +56,10 @@ Bilingual Japanese and English DTS.
 ## Details
 
 * **UofN Code:** DSP 211/212
-* **Start date:** April 2021
+* **Start date:** October 2021
 * **Length:** 24 Weeks
 * **Language(s):** Japanese, English
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Okinawa, Kyushu
-* **Last Updated:** 2020-05-02
+* **Last Updated:** 2020-12-08
