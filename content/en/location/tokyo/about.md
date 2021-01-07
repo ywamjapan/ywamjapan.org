@@ -49,7 +49,11 @@ subtitle = ""
  css_class = ""
 +++
 
-We are an international community of people settled in Tokyo, Japan, to build an altar of worship to the Lord. We desire to love God and love people by seeking intimate relationship with God - Father, Son, and Holy Spirit - as well as His Word, living in wholehearted relationship with others, and championing the Kingdom of God around us.
+YWAM Tokyo is committed to reaching Tokyo and the rest of Japan through training, evangelism and mercy ministry.
+
+It is our desire to see God reveal the true destiny of the incredible Japanese people. We believe that God wants to release a generation of Japanese who know the deep affection that Jesus has for them, and who have discovered their purpose in Christ. We want to see Japan become a missionary sending nation.
+
+As a YWAM base in Tokyo, we believe that a praying, worshipping international community is one of the important ingredients for seeing this come to pass. We believe that an increased urgency for prayer and a deep desire to be in God’s presence through worship are vital to carry more than mere words to this city. We believe that worship, prayer, and the arts need to be joined to communicate God’s heart to those who have lost a sense of beauty in their lives.
 
 [Visit Website](https://ywamtokyo.org)
 
@@ -57,4 +61,4 @@ We are an international community of people settled in Tokyo, Japan, to build an
 
 * **Language(s):** English, Japanese (transitioning)
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Central Tokyo, Kanto
-* **Last Updated:** 2020-04-13
+* **Last Updated:** 2021-01-07
