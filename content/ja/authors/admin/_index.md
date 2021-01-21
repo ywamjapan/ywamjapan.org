@@ -1,6 +1,6 @@
 ---
 # Display name
-name: YWAM Japan Admin
+title: YWAM Japan Admin
 
 # Username (this should match the folder name)
 authors:

@@ -88,7 +88,7 @@ sections:
   label: Pages (Ja)
   create: all
   match: "*"
-upload_dir: static/img
+upload_dir: static/media
 public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false

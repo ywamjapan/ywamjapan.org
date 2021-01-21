@@ -16,7 +16,7 @@ text_color_light = true
 padding = ["20px", "0", "20px", "0"]
 
 +++
-{{% alert warning %}}
+{{% callout warning %}}
 
 **重要なお知らせ:**
 
@@ -24,4 +24,4 @@ padding = ["20px", "0", "20px", "0"]
 
 また、日本の入国管理局は特定の国や地域に対して一部入国制限を行なっています。来日予定のチームやスタッフ、生徒はじめ、海外滞在中の関係者は[こちら](http://www.moj.go.jp/hisho/kouhou/20200131comment.html)を参照し、渡航前に日本への入国制限の有無をご確認下さい。
 
-{{% /alert %}}
+{{% /callout %}}

@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "ForestGreen"
 
   # Background image.
-  # image = "image.jpg"  # Name of image in `static/img/`.
+  # image = "image.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -50,9 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert warning %}}
+{{% callout warning %}}
 **Important Note:**
 Due to the current COVID-19 outbreak, we are encouraging all YWAMers residing in Japan to take special note of [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) and [government guidelines](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/newpage_00032.html) in order to prevent the spread of the virus. This means normal ministries and schools will be affected.
 
 Japanese Immigration have also declared new rules at the border preventing certain people from entering the country. This will affect outreach teams, incoming staff, volunteers, and students, as well as any staff currently overseas. Please follow [this link](http://www.moj.go.jp/EN/nyuukokukanri/kouhou/m_nyuukokukanri01_00003.html) to find out who is affected.
-{{% /alert %}}
+{{% /callout %}}

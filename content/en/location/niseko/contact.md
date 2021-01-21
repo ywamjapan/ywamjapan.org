@@ -1,19 +1,45 @@
-+++
-# Contact widget.
-widget = "niseko-contact"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+---
+# An instance of the Contact widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: contact
 
-title = "Contact"
-subtitle = ""
+# This file represents a page section.
+headless: true
 
-# Automatically link email and phone?
-autolink = true
+# Order that this section appears on the page.
+weight: 130
 
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
-email_form = 2
-+++
+title: Contact
+subtitle:
+
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+
+  # Email form provider
+  form:
+    provider:
+    formspree:
+      id:
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: true
+
+  oploc:
+    website: https://ywamniseko.org
+    email: ywamniseko@gmail.com
+    phone: 080-4722-4471
+    address:
+      street: Niseko
+      city: Abuta District
+      region: Hokkaido
+      # postcode:
+      country: Japan
+      country_code: JP
+    coordinates:
+      latitude: 42.805638
+      longitude: 140.686590
+
+design:
+  columns: '2'
+---

@@ -128,3 +128,9 @@
   translation: はい
 - id: cookie_learn
   translation: 詳細を見る
+- id: theme_light
+  translation: ライト
+- id: theme_dark
+  translation: ダーク
+- id: theme_auto
+  translation: オート
