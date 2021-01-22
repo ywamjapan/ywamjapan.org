@@ -10,7 +10,7 @@ css_style = ""
 [design]
 columns = "2"
 [design.background]
-text_color_light = false
+# text_color_light = false
 [design.spacing]
 padding = ["20px", "0", "20px", "0"]
 
