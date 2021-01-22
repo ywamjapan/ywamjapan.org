@@ -1,5 +1,5 @@
 +++
-active = true
+active = false
 headless = true
 height = "calc(100vh - 70px)"
 interval = false
