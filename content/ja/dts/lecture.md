@@ -1,22 +1,29 @@
-+++
-active = true
-headless = true
-subtitle = "講義期間"
-title = "神を知る"
-weight = 30
-widget = "blank"
-[advanced]
-css_class = ""
-css_style = ""
-[design]
-columns = "2"
-[design.background]
-text_color_light = false
-[design.spacing]
-padding = ["20px", "0", "20px", "0"]
+---
+# An instance of the Blank widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: blank
 
-+++
-{{< figure library="true" src="lecture.jpg" lightbox="true" >}}
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 31
+
+title: 神を知る
+subtitle: 講義期間
+
+design:
+  columns: "2"
+
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+
+---
+
+{{< figure library="true" src="lecture.jpg" title="講義" >}}
 
 **DTSの前半となる講義期間では、共同生活をしながらの様々な学びを通して神様についてより深く知り、心に変革をもたらします。**
 

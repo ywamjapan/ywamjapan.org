@@ -1,55 +1,29 @@
-+++
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+---
+# An instance of the Blank widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: blank
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+# Activate this widget? true/false
+active: true
 
-title = "Know God more."
-subtitle = "Lecture Phase"
+# This file represents a page section.
+headless: true
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+# Order that this section appears on the page.
+weight: 31
 
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
+title: Know God more.
+subtitle: Lecture Phase
 
-  # Background color.
-  # color = "white"
+design:
+  columns: "2"
 
-  # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
 
-  # Background image.
-  # image = "image.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+---
 
-  # Text color (true=light or false=dark).
-  text_color_light = false
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
-
-[advanced]
- # Custom CSS.
- css_style = ""
-
- # CSS class.
- css_class = ""
-+++
-
-{{< figure library="true" src="lecture.jpg" lightbox="true" >}}
+{{< figure library="true" src="lecture.jpg" title="Lecture" >}}
 
 **The Discipleship Training School (DTS) lecture phase provides classroom learning, community-bonding, and heart change. It’s a chance to have your perspectives altered and your view of God deepened.**
 

@@ -1,22 +1,29 @@
-+++
-active = true
-headless = true
-subtitle = "アウトリーチ期間"
-title = "神を知らせる"
-weight = "35"
-widget = "blank"
-[advanced]
-css_class = ""
-css_style = ""
-[design]
-columns = "2"
-[design.background]
-text_color_light = false
-[design.spacing]
-padding = ["20px", "0", "20px", "0"]
+---
+# An instance of the Blank widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: blank
 
-+++
-{{< figure library="true" src="outreach.JPG" lightbox="true" >}}
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 32
+
+title: 神を知らせる
+subtitle: アウトリーチ期間
+
+design:
+  columns: "2"
+
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+
+---
+
+{{< figure library="true" src="outreach.JPG" title="アウトリーチ" >}}
 
 **DTS の後半はアウトリーチです。仲間たちと一緒に学んだことを実践すべく、海外へ伝道に出かけます。行く先々での様々な奉仕や異文化体験を通して、世界での神の御国の働きについて学びます。**
 
