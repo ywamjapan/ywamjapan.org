@@ -1,20 +1,27 @@
-+++
-active = true
-headless = true
-title = "スタッフになる"
-weight = 35
-widget = "blank"
-[advanced]
-css_class = ""
-css_style = ""
-[design]
-columns = "2"
-[design.background]
-text_color_light = false
-[design.spacing]
-padding = ["20px", "0", "20px", "0"]
+---
+# An instance of the Blank widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: blank
 
-+++
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 35
+
+title: スタッフになる
+
+design:
+  columns: "2"
+
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+
+---
+
 ワイワムではおそらく、神様の御心ならどんな形でも活動することが可能です！ワイワムに参加することは、信仰と従順にもとづく冒険です。２年ほどスタッフになってみることから始める人が多いですが、そこから生涯にわたって宣教活動に献身する人も大勢います。
 
 ワイワムの中で活動することの大きな喜びの一つは、様々な国や教派出身の仲間達と働けることです。日本ワイワムでも、北米だけでなく南米やヨーロッパ、アジア各国など様々な国からのスタッフが宣教師として来日して活動しています。日本からもぜひ世界各国へ出かけていき、神様に仕える人が多く起こされることを願っています！
