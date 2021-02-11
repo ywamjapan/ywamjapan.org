@@ -21,11 +21,11 @@ A vision of YWAM is to establish ministries and disciple-making movements (churc
 
 # Omega Zones in Japan
 
-Japan has a total of 53 Omega Zones. Currently 41 Omega Zones have no YWAM ministries.
+Japan has a total of 53 Omega Zones. Currently 42 Omega Zones have no YWAM ministries.
 
 Here you can find a table detailing all of the Omega Zones in Japan, separated by region. The Major Metropolitan Areas (MMAs) have also been highlighted as these are key areas to focus on.
 
-Updated: 2020-05-02
+Updated: 2021-02-11
 
 | Region           | Omega Zone         | Population       | YWAM Location?       | MMA              | MMA Population (Rank) |
 | -----------------| -------------------| -----------------| ---------------------| -----------------| ------------------------|
@@ -63,9 +63,9 @@ Updated: 2020-05-02
 |                  | Mie                | 1,779,770        |                      |                  |                 |
 |                  | **Shizuoka**       | 3,637,998        |                    | Shizuoka-Hamamatsu | 2,842,151 (5th) |
 |                  | Yamanashi          | 812,056          |                      |                  |                 |
-| **Kansai**       |                    | **20,541,031**   | **3**                |                  |                 |
+| **Kansai**       |                    | **20,541,031**   | **2**                |                  |                 |
 |                  | Hyogo              | 5,463,609        | YWAM Kobe            | Keihanshin       |                 |
-|                  | Kyoto              | 2,583,140        | YWAM Kyoto           | Keihanshin       |                 |
+|                  | Kyoto              | 2,583,140        |            | Keihanshin       |                 |
 |                  | Nara               | 1,331,014        |                      |                  |                 |
 |                  | **Osaka (South)**  | 4,412,794        |                      | Keihanshin      | 19,302,746 (2nd) |
 |                  | **Osaka (North)**  | 4,412,794      | YWAM Osaka (Takatsuki) | Keihanshin       |                 |
@@ -91,4 +91,4 @@ Updated: 2020-05-02
 |                  | Oita               | 1,134,431        | YWAM Oita            |                  |                 |
 |                  | Okinawa            | 1,455,799        | YWAM Okinawa         |                  |                 |
 |                  | Saga               | 814,211          |                      |                  |                 |
-| **JAPAN**        |                    | **126,244,172**  | **12/53**            |                  |                 |
+| **JAPAN**        |                    | **126,244,172**  | **11/53**            |                  |                 |
