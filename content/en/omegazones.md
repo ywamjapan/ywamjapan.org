@@ -1,5 +1,5 @@
 ---
-title: Omega Zones
+title: Omega Zones & Cities
 draft: false
 share: false
 commentable: false
@@ -19,15 +19,17 @@ The world has been divided up into around 4,200 **Omega Zones**. These are deter
 
 A vision of YWAM is to establish ministries and disciple-making movements (church planting) in all of these 4,200 Omega Zones.
 
-# Omega Zones in Japan
+As most people in Japan live in urban areas, we can also highlight the most populous urban areas as **Omega Cities**. This is based on the Metropolitan Employment Areas (MEAs) as defined by the government.
 
-Japan has a total of 53 Omega Zones. Currently 42 Omega Zones have no YWAM ministries.
+# Omega Zones & Cities in Japan
 
-Here you can find a table detailing all of the Omega Zones in Japan, separated by region. The Metropolitan Employment Area (MEAs) have also been highlighted as these are key areas to focus on.
+Japan has a total of 53 Omega Zones. Currently 42 Omega Zones have no YWAM ministries. There are also 17 urban areas with a population of over 1 million. 11 of these Omega Cities have no YWAM ministries.
 
-Updated: 2021-02-11
+Here you can find a table detailing all of the Omega Zones in Japan, separated by region. The Omega Cities having over 1 million people have also been highlighted.
 
-| Region           | Omega Zone         | Population       | YWAM Location?       | MEA              | MEA Population (Rank) |
+Updated: 2021-02-12
+
+| Region        | Omega Zone (OZ)   | OZ Population    | YWAM Location?       | Omega City (OC) | OC Population (Rank) |
 | -----------------| -------------------| -----------------| ---------------------| -----------------| ------------------------|
 | **Hokkaido**     |                    | **5,273,681**    | **1**                |                  |                 |
 |                  | **Hokkaido**       | 5,273,681        | YWAM Niseko          | Sapporo          | 2,362,914 (7th) |
