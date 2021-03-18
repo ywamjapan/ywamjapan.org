@@ -28,7 +28,7 @@ content:
   oploc:
     website: http://hopekago.luna.weblife.me/index.html
     email:  ywamkago@me.com
-    phone: 09-9523-0766
+    phone: 0995-23-0766
     address:
       street: 大口里2698
       city: 伊佐市

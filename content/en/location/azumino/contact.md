@@ -28,7 +28,7 @@ content:
   oploc:
     # website:
     email:  SCFazumino@gmail.com
-    phone: 02-6387-0034
+    phone: 0263-87-0034
     address:
       street: 2303-4 Misatomeisei
       city: Azumino
