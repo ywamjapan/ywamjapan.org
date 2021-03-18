@@ -121,14 +121,14 @@ phone = "888 888 88 88"
 # Azumino contact details. To hide a field, clear it to "".
 # azumino_website = ""
 azumino_email = "SCFazumino@gmail.com"
-azumino_phone = "0263-87-0034"
+azumino_phone = "0263870034"
 azumino_address = {street = "2303-4 Misatomeisei", city = "Azumino", region = "Nagano", postcode = "399-8201", country = "Japan", country_code = "JP"}
 azumino_coordinates = {latitude = "36.271151", longitude = "137.904385"}
 
 # Kagoshima contact details. To hide a field, clear it to "".
 kagoshima_website = "http://hopekago.luna.weblife.me/index.html"
 kagoshima_email = "ywamkago@me.com"
-kagoshima_phone = "0995-23-0766"
+kagoshima_phone = "0995230766"
 kagoshima_address = {street = "Okuchisato 2698", city = "Isa", region = "Kagoshima", postcode = "895-2511", country = "Japan", country_code = "JP"}
 kagoshima_coordinates = {latitude = "32.063857", longitude = "130.615639"}
 
