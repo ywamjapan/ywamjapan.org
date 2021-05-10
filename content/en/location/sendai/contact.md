@@ -27,7 +27,7 @@ content:
 
   oploc:
     website: https://ywamsendai.org
-    email:  info@ywamsendai.org
+    email:  info@ywamsendai.jp
     # phone: 888 888 88 88
     address:
       street: Ayashichuo, Aoba-ku

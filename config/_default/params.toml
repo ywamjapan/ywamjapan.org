@@ -177,7 +177,7 @@ okinawa_coordinates = {latitude = "26.423932", longitude = "127.825819"}
 
 # Sendai contact details. To hide a field, clear it to "".
 sendai_website = "https://ywamsendai.org"
-sendai_email = "info@ywamsendai.org"
+sendai_email = "info@ywamsendai.jp"
 # sendai_phone = "888 888 88 88"
 sendai_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
 sendai_coordinates = {latitude = "38.2728", longitude = "140.761462"}
