@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Overview"
+title = "概要"
 # subtitle = ""
 
 [design]
@@ -49,22 +49,20 @@ title = "Overview"
  css_class = ""
 +++
 
-**Note: This is an online school based out of YWAM Perth, in partnership with YWAM Kobe.**
+**これは、神戸ワイワムと提携しているワイワム・パースを拠点とするオンラインスクールです。英語だけのスクールです。**
 
-How will people hear the gospel unless someone shares it with them? The School of Frontier Missions equips you to serve as a frontier missionary, readying you to go to areas where Jesus is not known. That means being a cultural and language learner who shares Him in a way people can understand in their cultural context. This course will equip you no matter where you want to go as a missionary – this will get you on the field! You will learn hands-on with a multicultural team of missionaries, immediately putting into practice what you are learning.
 
-The SOFM provides a strong platform for serving cross-culturally, whether you know clearly you’re headed to the frontiers long-term, or you’re exploring possibilities while adding tools to your missions “toolbox.” This is a great opportunity to benefit from the years of experience represented by this course and its long track record of missionaries pioneering and serving effectively in the frontiers. Be ready to tackle the challenge of taking the gospel to the unreached!
+[ホームページへ（英語だけ）](https://www.ywamperth.org.au/further-accredited-training/school-of-frontier-missions-online)
 
-[Visit YWAM Perth Website](https://www.ywamperth.org.au/further-accredited-training/school-of-frontier-missions)
+## 詳細
 
-## Details
-
-* **UofN Code:** CHR 235
-* **Prerequisites:** DSP 211/212 (DTS)
-* **Start date:** 4 October 2020
-* **Length:** 24 Weeks
-* **Language(s):** English
+* **UofNコード：** CHR 235
+* **前提条件：** DSP 211/212 (DTS)
+* **開講日:** 2021年10月3日
+* **期間:** 24週
+* **言語：** 英語
+* **Course Fees:** AUD $1,200, includes AUD $30 Registration Fee + $100 Deposit
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai (Online)
-* **Last Updated:** 2020-06-25
+* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関西地方・兵庫県（オンライン）
+* **最終更新：** 2021-06-16

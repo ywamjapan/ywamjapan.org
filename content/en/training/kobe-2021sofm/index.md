@@ -1,6 +1,6 @@
 ---
-title: 2020 SOFM
-summary: Training | 4 Oct 2020 - Kobe City, Hyogo
+title: 2021 SOFM
+summary: Training | 3 Oct 2021 - Kobe City, Hyogo
 type: "widget_page"
 tags: ["Explore", "Kansai", "Kobe", "Training", "SOFM"]
 ---
