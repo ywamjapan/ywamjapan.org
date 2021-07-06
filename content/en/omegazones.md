@@ -45,8 +45,8 @@ Updated: 2021-02-12
 |  | **Saitama (East)** | 3,671,342 |  | Tokyo |  |
 |  | **Saitama (West)** | 3,671,342 |  | Tokyo |  |
 |  | **Chiba** | 6,281,869 |  | Tokyo |  |
-|  | **Tokyo (Central)** | 4,653,412 | YWAM Tokyo | Tokyo | 35,303,778 (1st) |
-|  | **Tokyo (East)** | 4,653,412 | National Office | Tokyo |  |
+|  | **Tokyo (Central)** | 4,653,412 | YWAM Tokyo (Higashikurume) | Tokyo | 35,303,778 (1st) |
+|  | **Tokyo (East)** | 4,653,412 | YWAM Tokyo (Taito) | Tokyo |  |
 |  | **Tokyo (West)** | 4,653,412 |  | Tokyo |  |
 |  | **Kanagawa (West)** | 4,608,004 |  | Tokyo |  |
 |  | **Kanagawa (East)** | 4,608,004 | YWAM Yokohama | Tokyo |  |

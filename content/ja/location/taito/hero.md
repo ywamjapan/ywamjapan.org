@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "YWAM Tokyo (East)"
+title = "東京ワイワム（台東）"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "hero-academic.png"
@@ -51,4 +51,4 @@ title = "YWAM Tokyo (East)"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Taito City, East Tokyo, Kanto, Japan
+場所｜関東地方・東京都東部・台東区
