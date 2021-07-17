@@ -49,8 +49,7 @@ title = "Overview"
  css_class = ""
 +++
 
-**Note: This is an online school based out of YWAM Perth, in partnership with YWAM Kobe.**
-
+**New: Though this is an online school based out of YWAM Perth, we invite students to come study with us in Kobe! We will attend the lectures together online from Kobe. Please get in touch with us for more information!**
 
 How will people hear the gospel unless someone shares it with them? The School of Frontier Missions Online equips you to serve as a frontier missionary, readying you to go to areas where Jesus is not known. That means being a cultural and language learner who shares Him in a way people can understand in their cultural context. This course will equip you no matter where you want to go as a missionary – this will get you on the field! We look at topics such as: disciple-making movements, unity and team dynamics, cultural adjustment and communication, intercession, pioneering and more.
 
@@ -73,4 +72,4 @@ This course includes approximately 12 to 14 hours of teaching per week, plus fur
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai (Online)
-* **Last Updated:** 2021-06-16
+* **Last Updated:** 2021-07-17
