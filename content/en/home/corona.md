@@ -52,7 +52,7 @@ subtitle = ""
 
 {{% callout warning %}}
 **Important Note:**
-Due to the current COVID-19 outbreak, we are encouraging all YWAMers residing in Japan to take special note of [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) and [government guidelines](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00079.html) in order to prevent the spread of the virus. This means normal ministries and schools will be affected.
+Due to the COVID-19 pandemic, all YWAMers in Japan are encouraged to take special note of [government guidelines](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00079.html) in order to help prevent the spread of the virus.
 
-Japanese Immigration have also declared new rules at the border preventing certain people from entering the country. This will affect outreach teams, incoming staff, volunteers, and students, as well as any staff currently overseas. Please follow [this link](https://www.isa.go.jp/en/covid-19_index.html) to find out who is affected.
+Japanese Immigration have also declared new border rules preventing people from entering the country. Sadly, this affects new staff, volunteers, outreach teams, and students. Please follow [this link](https://www.isa.go.jp/en/covid-19_index.html) for more information.
 {{% /callout %}}
