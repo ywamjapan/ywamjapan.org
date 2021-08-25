@@ -26,14 +26,14 @@ content:
       captcha: true
 
   oploc:
-    website: http://ywamjpoffice.blogspot.com
-    email:  ywamjn@gmail.com
-    phone: 03-5603-1775
+    # website: http://ywamjpoffice.blogspot.com
+    email:  ywamtaito@gmail.com
+    # phone: 03-5603-1775
     address:
-      street: 1-19-6 Nihonzutsumi
+      # street: 1-19-6 Nihonzutsumi
       city: Taito-ku
       region: Tokyo
-      postcode: 111-0021
+      # postcode: 111-0021
       country: Japan
       country_code: JP
     coordinates:
