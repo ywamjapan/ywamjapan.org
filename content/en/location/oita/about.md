@@ -49,11 +49,17 @@ subtitle = ""
  css_class = ""
 +++
 
-New YWAM location in Oita.
+We are a presence-centered missional community that longs to change the world out of a place of abiding in a love relationship with Jesus.
+
+We are passionate about table fellowship, sabbath, the arts, education, and inner wholeness.
+
+We love Japan and it's people, and feel so privileged to be here to love our neighbors and our region with the love of Jesus.
+
+[Visit Website](https://www.ywamoita.org/)
 
 
 ## Details
 
 * **Language(s):** English
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Oita, Kyushu
-* **Last Updated:** 2020-04-13
+* **Last Updated:** 2021-09-06
