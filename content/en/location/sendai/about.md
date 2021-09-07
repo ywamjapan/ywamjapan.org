@@ -53,10 +53,10 @@ With a population of over a million people, Sendai is the largest city in North-
 
 As Tohoku is a large region that is mostly unreached by the gospel, we want to see a YWAM community pioneered in all of the six prefectures. Therefore, it is our heart to not only grow as a community in Sendai, but also to champion and release our members to spread God’s work through YWAM in surrounding areas from an early stage. Many smaller YWAM communities are more effective than just one large base!
 
-[Visit Website](https://ywamsendai.org)
+[Visit Website](https://www.ywamsendai.jp)
 
 ## Details
 
 * **Language(s):** English, Japanese (transitioning)
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Miyagi, Tohoku
-* **Last Updated:** 2020-04-13
+* **Last Updated:** 2021-09-07
