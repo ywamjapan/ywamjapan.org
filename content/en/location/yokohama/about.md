@@ -49,10 +49,13 @@ subtitle = ""
  css_class = ""
 +++
 
-New team in Yokohama.
+We are one of the operating locations (OP) located in Yokohama, Japan.  
+We are formed in late 2020 and looking forward to see what God has in stored in this area and the nation of Japan! 
+
+[Visit Website](https://sites.google.com/view/ywamyokohama/home)
 
 ## Details
 
 * **Language(s):** English
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** East Kanagawa, Kanto
-* **Last Updated:** 2020-11-30
+* **Last Updated:** 2021-10-01
