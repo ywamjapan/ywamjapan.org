@@ -49,9 +49,9 @@ title = "Overview"
  css_class = ""
 +++
 
-Bilingual Japanese and English DTS.
+40th DTS (Japanese only)
 
-[Visit Website](https://www.ywamokinawa.org/dts/)
+[Visit Website](https://www.ywamokinawa.org/dts/) (Japanese)
 
 ## Details
 
