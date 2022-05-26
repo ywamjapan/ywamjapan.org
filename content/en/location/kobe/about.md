@@ -59,8 +59,11 @@ The team is called to be a worshipping community that will open spiritual gates,
 
 Our team’s vision is to start a disciple-making movement in Kobe, and a missions sending movement from Kobe to other cities across Japan and to the nations beyond.
 
+**Note:** You must have completed both a DTS *and* an SOFM to staff at this location.
+
 ## Details
 
 * **Language(s):** English
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai
-* **Last Updated:** 2020-06-22
+* **Prerequisites to staff:** DSP 211/212 (DTS), CHR 235 (SOFM)
+* **Last Updated:** 2022-05-26
