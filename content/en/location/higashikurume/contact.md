@@ -30,10 +30,10 @@ content:
     email:  info@ywamtokyo.org
     # phone: 888 888 88 88
     address:
-      street: 1-17-7 Shinkawacho
+      # street: 1-17-7 Shinkawacho
       city: Higashikurume
       region: Tokyo
-      postcode: 203-0013
+      # postcode: 203-0013
       country: Japan
       country_code: JP
     coordinates:
