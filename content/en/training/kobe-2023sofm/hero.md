@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "2021 School of Frontier Missions （オンライン）"
+title = "2023 School of Frontier Missions"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "hero-academic.png"
@@ -38,7 +38,7 @@ title = "2021 School of Frontier Missions （オンライン）"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/location/kobe"
-  label = "神戸ワイワム、兵庫県（ワイワム・パースと提携）"
+  label = "YWAM Kobe, Hyogo (with YWAM Perth)"
 #   icon_pack = "fas"
 #   icon = "download"
 
@@ -51,4 +51,4 @@ title = "2021 School of Frontier Missions （オンライン）"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-学校｜２０２１年１０月３日｜兵庫県・神戸市
+April 2023

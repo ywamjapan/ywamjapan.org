@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "概要"
+title = "Overview"
 # subtitle = ""
 
 [design]
@@ -49,20 +49,16 @@ title = "概要"
  css_class = ""
 +++
 
-**これは、神戸ワイワムと提携しているワイワム・パースを拠点とするオンラインスクールです。英語だけのスクールです。**
 
+## Details
 
-[ホームページへ（英語だけ）](https://www.ywamperth.org.au/further-accredited-training/school-of-frontier-missions-online)
-
-## 詳細
-
-* **UofNコード：** CHR 235
-* **前提条件：** DSP 211/212 (DTS)
-* **開講日:** 2021年10月3日
-* **期間:** 24週
-* **言語：** 英語
-* **Course Fees:** AUD $1,200, includes AUD $30 Registration Fee + $100 Deposit
+* **UofN Code:** CHR 235
+* **Prerequisites:** DSP 211/212 (DTS)
+* **Start date:** April 2023
+* **Length:** 24 Weeks
+* **Language(s):** English
+* **Course Fees:** N/A
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関西地方・兵庫県（オンライン）
-* **最終更新：** 2021-06-16
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai (Online)
+* **Last Updated:** 2022-08-20
