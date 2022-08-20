@@ -38,7 +38,7 @@ title = "2023 School of Frontier Missions"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/location/kobe"
-  label = "神戸ワイワム、兵庫県（ワイワム・パースと提携）"
+  label = "神戸ワイワム、兵庫県"
 #   icon_pack = "fas"
 #   icon = "download"
 

@@ -38,7 +38,7 @@ title = "2023 School of Frontier Missions"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/location/kobe"
-  label = "YWAM Kobe, Hyogo (with YWAM Perth)"
+  label = "YWAM Kobe, Hyogo"
 #   icon_pack = "fas"
 #   icon = "download"
 

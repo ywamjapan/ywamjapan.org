@@ -19,6 +19,7 @@ padding = ["20px", "0", "20px", "0"]
 
 (Above Photo Credit: David Theodor Thorsen)
 
+
 ## 詳細
 
 * **言語：** 英語
