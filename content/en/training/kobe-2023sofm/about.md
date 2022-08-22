@@ -61,5 +61,5 @@ Please contact us for more information!
 * **Course Fees:** N/A
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai (Online)
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai
 * **Last Updated:** 2022-08-20

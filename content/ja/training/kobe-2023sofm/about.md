@@ -61,5 +61,5 @@ title = "概要"
 * **Course Fees:** N/A
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関西地方・兵庫県（オンライン）
+* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関西地方・兵庫県
 * **最終更新：** 2022-08-20
