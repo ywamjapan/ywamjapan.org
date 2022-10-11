@@ -26,7 +26,7 @@ content:
       captcha: true
 
   oploc:
-    # website:
+    website: https://www.ywamoita.org/
     # email:  
     # phone: 888 888 88 88
     address:

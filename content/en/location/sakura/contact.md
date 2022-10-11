@@ -27,7 +27,7 @@ content:
 
   oploc:
     # website:
-    # email:  
+    email: ywamsakura@gmail.com
     # phone: 888 888 88 88
     address:
       # street:
