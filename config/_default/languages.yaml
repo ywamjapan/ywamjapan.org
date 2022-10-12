@@ -1,0 +1,34 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+en:
+  languageCode: en-gb
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+ja:
+  languageCode: ja-jp
+  contentDir: content/ja
+  title: 日本ワイワム
+  params:
+    description: 神を知り、神を知らせる
+  menu:
+    main:
+      - name: 活動拠点
+        url: '#explore'
+        weight: 10
+      - name: 弟子訓練学校（DTS）
+        url: '/dts'
+        weight: 20
+      - name: 参加する
+        url: '/get-involved'
+        weight: 30
+      - name: ワイワムとは
+        url: '/about'
+        weight: 40
+      - name: ワイワマーへ（英語）
+        url: 'https://docs.ywamjapan.org'
+        weight: 50

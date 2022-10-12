@@ -1,6 +1,5 @@
 ---
 # An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
 # This file represents a page section.
@@ -23,22 +22,35 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
 
-  oploc:
-    website: https://ywamniseko.org
-    email: ywamniseko@gmail.com
-    phone: 080-4722-4471
-    address:
-      street: ニセコ
-      city: 虻田郡
-      region: 北海道
-      # postcode:
-      country: 日本
-      country_code: JP
-    coordinates:
-      latitude: 42.805638
-      longitude: 140.686590
+  # Contact details (edit or remove options as required)
+  email: ywamniseko@gmail.com
+  phone: 080-4722-4471
+  address:
+    street: ニセコ
+    city: 虻田郡
+    region: 北海道
+    #postcode: '399-8201'
+    country: 日本
+    country_code: JP
+  coordinates:
+    latitude: '42.805638'
+    longitude: '140.686590'
+  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  #office_hours:
+  #  - 'Monday 10:00 to 13:00'
+  #  - 'Wednesday 09:00 to 10:00'
+  #appointment_url: 'https://calendly.com'
+  contact_links:
+  #  - icon: twitter
+  #    icon_pack: fab
+  #    name: DM Me
+  #    link: 'https://twitter.com/Twitter'
+    - icon: globe
+      icon_pack: fas
+      name: Website
+      link: 'https://ywamniseko.org'
 
 design:
   columns: '2'

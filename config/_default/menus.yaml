@@ -1,0 +1,27 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Explore
+    url: '#explore'
+    weight: 10
+  - name: Discipleship Training School
+    url: '/dts'
+    weight: 20
+  - name: Get Involved
+    url: '/get-involved'
+    weight: 30
+  - name: Who We Are
+    url: '/about'
+    weight: 40
+  - name: For YWAMers
+    url: 'https://docs.ywamjapan.org'
+    weight: 50
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
