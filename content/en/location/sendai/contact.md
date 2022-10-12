@@ -47,7 +47,7 @@ content:
   #    icon_pack: fab
   #    name: DM Me
   #    link: 'https://twitter.com/Twitter'
-   - icon: globe
+    - icon: globe
       icon_pack: fas
       name: Website
       link: 'https://www.ywamsendai.jp'

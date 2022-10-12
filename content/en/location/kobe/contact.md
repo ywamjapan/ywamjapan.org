@@ -42,15 +42,15 @@ content:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
-  contact_links:
+  #contact_links:
   #  - icon: twitter
   #    icon_pack: fab
   #    name: DM Me
   #    link: 'https://twitter.com/Twitter'
-   - icon: globe
-      icon_pack: fas
-      name: Website
-      link: 'https://ywamtokyo.org'
+  #  - icon: globe
+  #    icon_pack: fas
+  #    name: Website
+  #    link: 'https://ywamtokyo.org'
 
 design:
   columns: '2'
