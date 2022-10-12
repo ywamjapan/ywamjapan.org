@@ -1,0 +1,208 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+  theme_day: japan
+  theme_night: japan
+  font: minimal
+  font_size: L
+
+# SEO
+
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: ''
+    description: 'To know God and make Him known to the Japanese.'
+    twitter: 'ywamjapan'
+  analytics:
+    google_analytics: 'G-6NFZRN2ZG4'
+    google_tag_manager: 'GTM-WTQ7QHF'
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: true
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '© {year} ywam&reg;japan.org. All rights reserved. Part of the YWAM Family of Ministries.'
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: '2006-01-02'
+  time_format: '15:04'
+  address_format: en-gb
+
+# Site features
+
+features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/ywamjapan/ywamjapan.org'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'google'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
+
+
+
+############################
+## Location contact details
+##
+## These details power the ocation-specific Contact widget (if enabled).
+############################
+
+# Azumino contact details. To hide a field, clear it to "".
+# azumino_website = ""
+azumino_email = "SCFazumino@gmail.com"
+azumino_phone = "0263870034"
+azumino_address = {street = "2303-4 Misatomeisei", city = "Azumino", region = "Nagano", postcode = "399-8201", country = "Japan", country_code = "JP"}
+azumino_coordinates = {latitude = "36.271151", longitude = "137.904385"}
+
+# Kagoshima contact details. To hide a field, clear it to "".
+kagoshima_website = "http://hopekago.luna.weblife.me/index.html"
+kagoshima_email = "ywamkago@me.com"
+kagoshima_phone = "0995230766"
+kagoshima_address = {street = "Okuchisato 2698", city = "Isa", region = "Kagoshima", postcode = "895-2511", country = "Japan", country_code = "JP"}
+kagoshima_coordinates = {latitude = "32.063857", longitude = "130.615639"}
+
+# Kobe contact details. To hide a field, clear it to "".
+# kobe_website = ""
+kobe_email = "ywamkobe@gmail.com"
+# kobe_phone = "888 888 88 88"
+kobe_address = {street = "", city = "Kobe", region = "Hyogo", postcode = "", country = "Japan", country_code = "JP"}
+kobe_coordinates = {latitude = "34.691391", longitude = "135.19628"}
+
+# Kyoto contact details. To hide a field, clear it to "".
+# kyoto_website = ""
+# kyoto_email = ""
+# kyoto_phone = "888 888 88 88"
+kyoto_address = {street = "", city = "Kyoto-shi", region = "Kyoto-fu", postcode = "", country = "Japan", country_code = "JP"}
+kyoto_coordinates = {latitude = "35.011356", longitude = "135.766893"}
+
+# Niseko contact details. To hide a field, clear it to "".
+niseko_website = "https://ywamniseko.org"
+niseko_email = "ywamniseko@gmail.com"
+niseko_phone = "080-4722-4471"
+niseko_address = {street = "Niseko", city = "Abuta District", region = "Hokkaido", postcode = "", country = "Japan", country_code = "JP"}
+niseko_coordinates = {latitude = "42.805638", longitude = "140.686590"}
+
+# National Office contact details. To hide a field, clear it to "".
+no_website = "http://ywamjpoffice.blogspot.com"
+no_email = "ywamjn@gmail.com"
+no_phone = "03-5603-1775"
+no_address = {street = "1-19-6 Nihonzutsumi", city = "Taito-ku", region = "Tokyo", postcode = "111-0021", country = "Japan", country_code = "JP"}
+no_coordinates = {latitude = "35.726806", longitude = "139.799227"}
+
+# Oita contact details. To hide a field, clear it to "".
+# oita_website = ""
+# oita_email = ""
+# oita_phone = "888 888 88 88"
+oita_address = {street = "", city = "Oita-shi", region = "Oita-ken", postcode = "", country = "Japan", country_code = "JP"}
+oita_coordinates = {latitude = "33.242238", longitude = "131.608024"}
+
+# Okinawa contact details. To hide a field, clear it to "".
+okinawa_website = "https://www.ywamokinawa.org"
+okinawa_email = "ywamokinawa@gmail.com"
+okinawa_phone = "098-988-7330"
+okinawa_phone2 = "We tend to be very busy away from the phone, so please contact us via email as much as possible."
+okinawa_address = {street = "2-10-16 Shirahama Ishikawa", city = "Uruma", region = "Okinawa", postcode = "904-1105", country = "Japan", country_code = "JP"}
+okinawa_coordinates = {latitude = "26.423932", longitude = "127.825819"}
+
+# Sendai contact details. To hide a field, clear it to "".
+sendai_website = "https://ywamsendai.org"
+sendai_email = "info@ywamsendai.jp"
+# sendai_phone = "888 888 88 88"
+sendai_address = {street = "Ayashichuo, Aoba-ku", city = "Sendai", region = "Miyagi", postcode = "989-3128", country = "Japan", country_code = "JP"}
+sendai_coordinates = {latitude = "38.2728", longitude = "140.761462"}
+
+# Takatsuki contact details. To hide a field, clear it to "".
+takatsuki_website = "https://www.ywamtakatsuki.org"
+takatsuki_email = "info@ywamtakatsuki.org"
+takatsuki_phone = "072-669-0555"
+takatsuki_address = {street = "2-15-3 Kanmaki-cho", city = "Takatsuki", region = "Osaka", postcode = "569-0003", country = "Japan", country_code = "JP"}
+takatsuki_coordinates = {latitude = "34.864127", longitude = "135.662477"}
+
+# Tokyo contact details. To hide a field, clear it to "".
+tokyo_website = "https://ywamtokyo.org"
+tokyo_email = "info@ywamtokyo.org"
+# tokyo_phone = "888 888 88 88"
+tokyo_address = {street = "1-17-7 Shinkawacho", city = "Higashikurume", region = "Tokyo", postcode = "203-0013", country = "Japan", country_code = "JP"}
+tokyo_coordinates = {latitude = "35.758914", longitude = "139.538747"}
+
+# Yokohama contact details. To hide a field, clear it to "".
+# yokohama_website = ""
+yokohama_email = "ywamyokohama@gmail.com"
+# yokohama_phone = "888 888 88 88"
+yokohama_address = {street = "", city = "Yokohama-shi", region = "Kanagawa-ken", postcode = "", country = "Japan", country_code = "JP"}
+yokohama_coordinates = {latitude = "35.45319141973333", longitude = "139.64522842119422"}

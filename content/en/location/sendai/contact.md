@@ -1,6 +1,5 @@
 ---
 # An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
 # This file represents a page section.
@@ -18,27 +17,40 @@ content:
 
   # Email form provider
   form:
-    provider: formspree
+    provider:
     formspree:
       id: mleoznje
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
 
-  oploc:
-    website: https://ywamsendai.org
-    email:  info@ywamsendai.jp
-    # phone: 888 888 88 88
-    address:
-      street: Ayashichuo, Aoba-ku
-      city: Sendai
-      region: Miyagi
-      postcode: 989-3128
-      country: Japan
-      country_code: JP
-    coordinates:
-      latitude: 38.2728
-      longitude: 140.761462
+  # Contact details (edit or remove options as required)
+  email: info@ywamsendai.jp
+  #phone: 0263-87-0034
+  address:
+  #  street: 2303-4 Misatomeisei
+    city: Sendai
+    region: Miyagi
+    #postcode: '399-8201'
+    country: Japan
+    country_code: JP
+  coordinates:
+    latitude: '38.2728'
+    longitude: '140.761462'
+  #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  #office_hours:
+  #  - 'Monday 10:00 to 13:00'
+  #  - 'Wednesday 09:00 to 10:00'
+  #appointment_url: 'https://calendly.com'
+  #contact_links:
+  #  - icon: twitter
+  #    icon_pack: fab
+  #    name: DM Me
+  #    link: 'https://twitter.com/Twitter'
+   - icon: globe
+      icon_pack: fas
+      name: Website
+      link: 'https://www.ywamsendai.jp'
 
 design:
   columns: '2'
