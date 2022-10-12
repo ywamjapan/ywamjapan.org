@@ -3,6 +3,8 @@ module ywamjapan.org
 go 1.15
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210120025205-e0ae7c979cda // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210120025205-e0ae7c979cda // indirect
+  github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms main
+  github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify main
+    github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal main
+  github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 main
 )
