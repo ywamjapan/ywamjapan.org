@@ -50,12 +50,10 @@ subtitle = ""
 +++
 
 We are one of the operating locations (OP) located in Yokohama, Japan.  
-We are formed in late 2020 and looking forward to see what God has in stored in this area and the nation of Japan! 
-
-[Visit Website](https://sites.google.com/view/ywamyokohama/home)
+We are formed in late 2020 and looking forward to see what God has in stored in this area and the nation of Japan!
 
 ## Details
 
 * **Language(s):** English
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** East Kanagawa, Kanto
-* **Last Updated:** 2021-10-01
+* **Last Updated:** 2022-10-12
