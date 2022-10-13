@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: ワイワム沖縄
+title: 沖縄ワイワム
 #hero_media:
 #cta:
 #  label: '**活動拠点**'

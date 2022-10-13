@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: ワイワム桜
+title: 桜ワイワム
 #hero_media:
 #cta:
 #  label: '**活動拠点**'

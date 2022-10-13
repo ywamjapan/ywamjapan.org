@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: ワイワム高槻
+title: 高槻ワイワム
 #hero_media:
 #cta:
 #  label: '**活動拠点**'

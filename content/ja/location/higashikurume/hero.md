@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: ワイワム東京（東久留米）
+title: 東京ワイワム（東久留米）
 #hero_media:
 #cta:
 #  label: '**活動拠点**'

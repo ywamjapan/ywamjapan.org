@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: ワイワム大分
+title: 大分ワイワム
 #hero_media:
 #cta:
 #  label: '**活動拠点**'
