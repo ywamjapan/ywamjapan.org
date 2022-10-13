@@ -10,8 +10,8 @@ subtitle: 目的・信念・基本理念
 design:
   columns: "2"
 
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  #spacing:
+  #  padding: ["20px", "0", "20px", "0"]
 
 ---
 

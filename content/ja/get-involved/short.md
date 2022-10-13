@@ -18,7 +18,7 @@ subtitle: ２週間から６ヶ月以内の活動機会
 design:
   columns: "1"
 
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  #spacing:
+  #  padding: ["20px", "0", "20px", "0"]
 
 ---

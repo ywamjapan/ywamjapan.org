@@ -18,7 +18,7 @@ subtitle: 弟子訓練学校修了後のさらなる活動
 design:
   columns: "1"
 
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  #spacing:
+  #  padding: ["20px", "0", "20px", "0"]
 
 ---

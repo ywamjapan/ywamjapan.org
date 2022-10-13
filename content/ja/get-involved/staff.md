@@ -17,8 +17,8 @@ title: スタッフになる
 design:
   columns: "2"
 
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  #spacing:
+  #  padding: ["20px", "0", "20px", "0"]
 
 ---
 

@@ -18,7 +18,7 @@ subtitle: 神様との関係を親密にし、宣教の働きの役に立ちた�
 design:
   columns: "1"
 
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  #spacing:
+  #  padding: ["20px", "0", "20px", "0"]
 
 ---
