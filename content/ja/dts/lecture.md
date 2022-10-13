@@ -23,7 +23,7 @@ design:
 
 ---
 
-![screen reader text](lecture.jpg "講義")
+![screen reader text](lecture.JPG "講義")
 
 **DTSの前半となる講義期間では、共同生活をしながらの様々な学びを通して神様についてより深く知り、心に変革をもたらします。**
 
