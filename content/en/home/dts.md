@@ -32,8 +32,8 @@ design:
     # Text color (true=light or false=dark).
     text_color_light: true
 
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  #spacing:
+  #  padding: ["20px", "0", "20px", "0"]
 
 ---
 

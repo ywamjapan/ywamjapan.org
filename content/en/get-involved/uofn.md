@@ -17,8 +17,8 @@ title: Specialized studies in YWAM’s UofN.
 design:
   columns: "2"
 
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  #spacing:
+  #  padding: ["20px", "0", "20px", "0"]
 
 ---
 

@@ -18,12 +18,12 @@ subtitle: Outreach Phase
 design:
   columns: "2"
 
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  #spacing:
+  #  padding: ["20px", "0", "20px", "0"]
 
 ---
 
-{{< figure library="true" src="outreach.JPG" title="Outreach" >}}
+![Outreach](outreach.JPG "Outreach")
 
 **During the Discipleship Training School (DTS) outreach phase, you will join with others to take the message and love of God across the world. You will learn about the diversity of cultures and will participate in God’s purposes for the places you visit.**
 

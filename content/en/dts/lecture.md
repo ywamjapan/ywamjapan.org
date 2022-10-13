@@ -18,12 +18,12 @@ subtitle: Lecture Phase
 design:
   columns: "2"
 
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  #spacing:
+  #  padding: ["20px", "0", "20px", "0"]
 
 ---
 
-{{< figure library="true" src="lecture.jpg" title="Lecture" >}}
+![Lecture](lecture.JPG "Lecture")
 
 **The Discipleship Training School (DTS) lecture phase provides classroom learning, community-bonding, and heart change. It’s a chance to have your perspectives altered and your view of God deepened.**
 

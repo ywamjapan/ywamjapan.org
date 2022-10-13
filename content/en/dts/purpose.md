@@ -18,7 +18,7 @@ subtitle: It is for those who long to follow Jesus in new ways with a different 
 design:
   columns: "1"
 
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  #spacing:
+  #  padding: ["20px", "0", "20px", "0"]
 
 ---
