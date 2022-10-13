@@ -29,17 +29,15 @@ design:
 
 ---
 
-詳細についてはお問い合わせください。
+[ホームページへ](https://www.ywamyokohama.org/general-1)（英語）
 
 ## 詳細
 
-* **UofNコード：** CHR 235
-* **前提条件：** DSP 211/212 (DTS)
-* **開講日:** 2023年4月
+* **UofNコード：** DSP 211/212
+* **開講日:** 2023年3月19日
 * **期間:** 24週
 * **言語：** 英語
-* **Course Fees:** N/A
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関西地方・兵庫県
+* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関東地方・神奈川東部
 * **最終更新：** 2022-10-13

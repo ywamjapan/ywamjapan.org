@@ -1,29 +1,33 @@
-+++
-active = true
-headless = true
-title = "概要"
-weight = 15
-widget = "blank"
-[advanced]
-css_class = ""
-css_style = ""
-[design]
-columns = "2"
-[design.background]
-# text_color_light = false
-[design.spacing]
-padding = ["20px", "0", "20px", "0"]
+---
+# An instance of the Blank widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: blank
 
-+++
-Do you have a heart for missions?
+# Activate this widget? true/false
+active: true
 
-Do you want to grow in intimacy in your relationship with God?
+# This file represents a page section.
+headless: true
 
-Do you love Japan and the nations?
+# Order that this section appears on the page.
+weight: 15
 
-Then DTS might be for you!
+title: 概要
+subtitle: ''
 
-The Discipleship Training School (DTS) is a six month Christian course designed to help you grow and equip your walk with God. The purpose of DTS is to increase your intimate relationship with Him, so that you can live out a missional lifestyle wherever you are in the world.
+design:
+  columns: "2"
+  #background:
+    #color: 'white'
+    #gradient_start: '#4bb4e3'
+    #gradient_end: '#2b94c3'
+    # Text color (true=light or false=dark).
+    #text_color_light: false
+
+  #spacing:
+  #  padding: ["20px", "0", "20px", "0"]
+
+---
 
 [ホームページへ](https://www.ywamtakatsuki.org/dts)
 
