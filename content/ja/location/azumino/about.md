@@ -1,26 +1,36 @@
-+++
-active = true
-headless = true
-subtitle = ""
-title = "概要"
-weight = 15
-widget = "blank"
-[advanced]
-css_class = ""
-css_style = ""
-[design]
-columns = "2"
-[design.background]
-# text_color_light = false
-[design.spacing]
-padding = ["20px", "0", "20px", "0"]
+---
+# An instance of the Blank widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: blank
 
-+++
+# Activate this widget? true/false
+active: true
 
-[ホームページへ](https://shekinahcf.wixsite.com/ywam/home)
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 15
+
+title: 概要
+subtitle: ''
+
+design:
+  columns: "2"
+  #background:
+    #color: 'white'
+    #gradient_start: '#4bb4e3'
+    #gradient_end: '#2b94c3'
+    # Text color (true=light or false=dark).
+    #text_color_light: false
+
+  #spacing:
+  #  padding: ["20px", "0", "20px", "0"]
+
+---
 
 ## 詳細
 
 * **言語：** 英語、日本語
 * **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 北信越地方・長野県
-* **最終更新：** 2020-04-15
+* **最終更新：** 2022-10-13

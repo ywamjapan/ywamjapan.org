@@ -39,5 +39,5 @@ design:
 * **言語：** 英語
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関東地方・神奈川東部
+* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関東地方・神奈川県東部
 * **最終更新：** 2022-10-13
