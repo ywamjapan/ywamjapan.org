@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: ''
 
 content:
   # Automatically link email and phone or display as text?
@@ -47,10 +47,10 @@ content:
   #    icon_pack: fab
   #    name: DM Me
   #    link: 'https://twitter.com/Twitter'
-  #  - icon: video
-  #    icon_pack: fas
-  #    name: Zoom Me
-  #    link: 'https://zoom.com'
+    - icon: globe
+      icon_pack: fas
+      name: Website
+      link: 'https://shekinahcf.wixsite.com/ywam/english'
 
 design:
   columns: '2'
