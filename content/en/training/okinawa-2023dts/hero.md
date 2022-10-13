@@ -2,11 +2,11 @@
 widget: hero
 headless: true
 weight: 1
-title: 2023 Discipleship Training School
+title: 41st DTS
 #hero_media:
 cta:
-  label: '**YWAM Takatsuki, North Osaka**'
-  url: '/location/takatsuki'
+  label: '**YWAM Okinawa, Okinawa**'
+  url: '/location/okinawa'
 #  icon: compass
 #  icon_pack: fas
 #cta_alt:
@@ -19,7 +19,7 @@ design:
   background:
 #    gradient_end: '#1976d2'
 #    gradient_start: '#004ba0'
-    image: takatsuki-2020dts.jpg
+    image: okinawa.jpeg
     image_darken: 0.6
     image_size: cover
     image_position: center
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-2023
+June 2023
