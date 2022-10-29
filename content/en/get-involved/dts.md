@@ -22,6 +22,6 @@ design:
 
 ---
 
-The Discipleship Training School (YWAM DTS) offers six months of growing deeper with God and impacting the world, all in a community environment. Learn more about the [DTS]({{< ref "/dts/index.md" >}}) and find one that fits you.
+The Discipleship Training School (YWAM DTS) offers six months of growing deeper with God and impacting the world, all in a community environment. Learn more about the [DTS]({{< ref "/dts/index.md" >}}) and find one that fits you
 
 [Find a DTS >]({{< ref "/#explore" >}})
