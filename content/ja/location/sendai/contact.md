@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: info@ywamsendai.jp
+  email: info@ywamsendai.org
   #phone: 0263-87-0034
   address:
   #  street: 2303-4 Misatomeisei
