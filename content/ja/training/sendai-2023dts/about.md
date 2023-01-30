@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Overview"
+title = "概要"
 # subtitle = ""
 
 [design]
@@ -49,17 +49,17 @@ title = "Overview"
  css_class = ""
 +++
 
-First ever DTS in Tohoku, Japan!
+東北初のDTS！
 
-[Visit Website](https://ywamsendai.org)
+[ホームページへ](https://www.ywamsendai.org)
 
-## Details
+## 詳細
 
-* **UofN Code:** DSP 211/212
-* **Start date:** 2021
-* **Length:** 22 Weeks
-* **Language(s):** English, Japanese
-* **Outreach Locations:** N/A
-* **Related Passion:** N/A
-* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Miyagi, Tohoku
-* **Last Updated:** 2020-12-08
+* **UofNコード：** DSP 211/212
+* **開講日:** 2023年
+* **期間:** 22週
+* **言語：** 英語と日本語
+* **Outreach Locations:** 未定
+* **Related Passion:** 日本、ミッション
+* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 東北地方・宮城県
+* **最終更新：** 2023-01-30

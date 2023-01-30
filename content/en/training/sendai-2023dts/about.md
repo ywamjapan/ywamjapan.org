@@ -51,15 +51,15 @@ title = "Overview"
 
 First ever DTS in Tohoku, Japan!
 
-[Visit Website](https://ywamsendai.org)
+[Visit Website](https://www.ywamsendai.org)
 
-## 詳細
+## Details
 
-* **UofNコード：** DSP 211/212
-* **開講日:** 2021年
-* **期間:** 22週
-* **言語：** 英語と日本語
-* **Outreach Locations:** N/A
-* **Related Passion:** N/A
-* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 東北地方・宮城県
-* **最終更新：** 2020-12-08
+* **UofN Code:** DSP 211/212
+* **Start date:** 2023
+* **Length:** 22 Weeks
+* **Language(s):** English, Japanese
+* **Outreach Locations:** TBA
+* **Related Passion:** Japan, Frontier Mission
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Miyagi, Tohoku
+* **Last Updated:** 2023-01-30
