@@ -29,7 +29,7 @@ design:
 
 ---
 
-41st DTS (Japanese only)
+The 41st DTS in Okinawa will be a bilingual DTS help in both Japanese and English!
 
 [Visit Website](https://www.ywamokinawa.org/dts/) (Japanese)
 
