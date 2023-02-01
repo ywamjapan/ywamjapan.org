@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\content",
+    "\\content\\en",
+    "\\content\\en\\location",
+    "\\content\\en\\training\\sendai-2023dts",
+    "\\content\\ja",
+    "\\content\\ja\\location",
+    "\\content\\ja\\location\\sendai",
+    "\\content\\ja\\training",
+    "\\content\\ja\\training\\okinawa-2023dts"
   ],
+  "SelectedNode": "\\content\\ja\\training\\okinawa-2023dts\\hero.md",
   "PreviewInSolutionExplorer": false
 }

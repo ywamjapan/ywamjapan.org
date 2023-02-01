@@ -36,10 +36,10 @@ design:
 ## Details
 
 * **UofN Code:** DSP 211/212
-* **Start date:** June 2023
+* **Start date:** 24 April 2023
 * **Length:** 23 Weeks
-* **Language(s):** Japanese
+* **Language(s):** Japanese, English
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Okinawa, Kyushu
-* **Last Updated:** 2022-10-13
+* **Last Updated:** 2023-02-01
