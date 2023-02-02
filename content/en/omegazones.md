@@ -82,7 +82,7 @@ Updated: 2023-02-02
 |                  | Ehime              | 1,303,051        |  |  |  |
 |                  | Kochi              | 673,817        |  |  |  |
 | **Kyushu & Okinawa** |                | **14,094,166**   | **4** |  |  |
-|                  | Fukuoka            | 5,114,881        | YWAM Fukuoka | Kita-Kyushu     | 1,314,276 (11th) |
+|                  | Fukuoka            | 5,114,881        | YWAM Fukuoka | Fukuoka     | 2,565,501 (5th) |
 |                  | Saga               | 799,276        |  |  |  |
 |                  | Nagasaki           | 1,279,871        |  |  |  |
 |                  | Kumamoto           | 1,715,769        |  | Kumamoto        | 1,111,596 (14th) |
