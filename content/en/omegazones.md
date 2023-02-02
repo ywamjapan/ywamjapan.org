@@ -25,69 +25,69 @@ Japan has a total of 53 Omega Zones. Currently 42 Omega Zones have no YWAM minis
 
 Here you can find a table detailing all of the Omega Zones in Japan, separated by region. The Omega Cities having over 1 million people have also been highlighted.
 
-Updated: 2021-02-12
+Updated: 2023-02-02
 
 | Region | Omega Zone (OZ) | OZ Population | YWAM Location? | Omega City (OC) | OC Population (Rank) |
 | --- | --- | --- | --- | --- | --- |
-| **Hokkaido** |  | **5,229,075** | **1** |  |  |
-|  | **Hokkaido** | 5,229,075 | YWAM Niseko | Sapporo | 2,362,914 (7th) |
-| **Tohoku** |  | **8,560,177** | **1** |  |  |
-|  | Aomori | 1,227,653 |  |  |  |
-|  | Iwate | 1,209,457 |  |  |  |
-|  | **Miyagi** | 2,290,915 | YWAM Sendai | Sendai | 1,612,499 (8th) |
-|  | Akita | 948,964 |  |  |  |
-|  | Yamagata | 1,062,239 |  |  |  |
-|  | Fukushima | 1,820,949 |  |  |  |
-| **Kanto** |  | **43,507,412** | **3** |  |  |
-|  | Ibaraki | 2,852,499 |  | Utsunomiya | 1,103,745 (15th) |
-|  | Tochigi | 1,930,000 |  |  |  |
-|  | Gunma | 1,924,116 |  | Maebashi | 1,263,034 (12th) |
-|  | **Saitama (East)** | 3,671,342 |  | Tokyo |  |
-|  | **Saitama (West)** | 3,671,342 |  | Tokyo |  |
-|  | **Chiba** | 6,281,869 |  | Tokyo |  |
-|  | **Tokyo (Central)** | 4,653,412 | YWAM Tokyo (Higashikurume) | Tokyo | 35,303,778 (1st) |
-|  | **Tokyo (East)** | 4,653,412 | YWAM Tokyo (Taito) | Tokyo |  |
-|  | **Tokyo (West)** | 4,653,412 |  | Tokyo |  |
-|  | **Kanagawa (West)** | 4,608,004 |  | Tokyo |  |
-|  | **Kanagawa (East)** | 4,608,004 | YWAM Yokohama | Tokyo |  |
-| **Chubu** |  | **21,081,717** | **1** |  |  |
-|                  | Niigata            | 2,195,068        |  | Niigata         | 1,060,013 (17th) |
-|                  | Toyama             | 1,032,970        |  | Toyama         | 1,066,328 (16th)  |
-|                  | Ishikawa           | 1,129,362        |  |  |  |
-|                  | Fukui              | 761,360        |  |  |  |
-|                  | Yamanashi          | 805,339        |  |  |  |
-|                  | Nagano             | 2,031,795        | Azumino CP           |  |  |
-|                  | Gifu               | 1,975,397        |  |  |  |
-|                  | Shizuoka           | 3,613,788        |  | Hamamatsu       | 1,129,296 (13th) |
-|                  | **Aichi (North)**  | 3,768,319        |  | Nagoya           | 6,871,632 (3rd) |
-|                  | **Aichi (South)**  | 3,768,319        |  | Nagoya           |  |
-| **Kansai**       |                    | **22,230,517**   | **2** |  |  |
-|                  | Mie                | 1,768,632        |  |  |  |
-|                  | Shiga              | 1,412,095        |  |  |  |
-|                  | **Kyoto**          | 2,566,341        |  | Kyoto            | 2,801,044 (4th) |
-|                  | **Osaka (North)**  | 4,407,595        | YWAM Osaka (Takatsuki) | Osaka         | 12,078,820 (2nd) |
-|                  | **Osaka (South)**  | 4,407,595        |  | Osaka            |  |
-|                  | **Hyogo**          | 5,434,645        | YWAM Kobe            | Kobe             | 2,419,973 (6th) |
-|                  | Nara               | 1,321,250        |  |  |  |
-|                  | Wakayama           | 912,364        |  |  |  |
-| **Chugoku**      |                    | **7,228,137**    | **0** |  |  |
-|                  | Tottori            | 550,651        |  |  |  |
-|                  | Shimane            | 665,702        |  |  |  |
-|                  | **Okayama**        | 1,880,772        |  | Okayama          | 1,526,503 (9th) |
-|                  | **Hiroshima**      | 2,792,009        |  | Hiroshima       | 1,431,634 (10th) |
-|                  | Yamaguchi          | 1,339,003        |  |  |  |
-| **Shikoku**      |                    | **3,683,512**    | **0** |  |  |
-|                  | Tokushima          | 721,721        |  |  |  |
-|                  | Kagawa             | 949,357        |  |  |  |
-|                  | Ehime              | 1,323,851        |  |  |  |
-|                  | Kochi              | 688,583        |  |  |  |
-| **Kyushu & Okinawa** |  | **14,192,254**   | **3** |  |  |
-|                  | Fukuoka            | 5,108,038        |  | Kita-Kyushu     | 1,314,276 (11th) |
-|                  | Saga               | 808,074        |  |  |  |
-|                  | Nagasaki           | 1,308,277        |  |  |  |
-|                  | Kumamoto           | 1,734,231        |  | Kumamoto        | 1,111,596 (14th) |
-|                  | Oita               | 1,123,242        | YWAM Oita            |  |  |
-|                  | Miyazaki           | 1,062,180        |  |  |  |
-|                  | Kagoshima          | 1,587,785        | YWAM Kagoshima       |  |  |
-|                  | Okinawa            | 1,460,427        | YWAM Okinawa         |  |  |
-| **JAPAN**        |  | **125,712,801** | **11/53** |  |  |
+| **Hokkaido** |  | **5,140,388** | **2** |  |  |
+|                  | **Hokkaido** | 5,140,388 | YWAM Niseko | Sapporo | 2,362,914 (7th) |
+| **Tohoku** |  | **8,400,960** | **1** |  |  |
+|                  | Aomori | 1,200,464 |  |  |  |
+|                  | Iwate | 1,176,355 |  |  |  |
+|                  | **Miyagi** | 2,275,595 | YWAM Sendai | Sendai | 1,612,499 (8th) |
+|                  | Akita | 925,933 |  |  |  |
+|                  | Yamagata | 1,037,677 |  |  |  |
+|                  | Fukushima | 1,784,936 |  |  |  |
+| **Kanto** |  | **43,522,511** | **3** |  |  |
+|                  | Ibaraki | 2,837,570 |  | Utsunomiya | 1,103,745 (15th) |
+|                  | Tochigi | 1,905,170 |  |  |  |
+|                  | Gunma | 1,909,670 |  | Maebashi | 1,263,034 (12th) |
+|                  | **Saitama (East)** | 3,667,597 |  | Tokyo |  |
+|                  | **Saitama (West)** | 3,667,597 |  | Tokyo |  |
+|                  | **Chiba** | 6,272,144 |  | Tokyo |  |
+|                  | **Tokyo (Central)** | 4,678,287 | YWAM Tokyo (Higashikurume) | Tokyo | 35,303,778 (1st) |
+|                  | **Tokyo (East)** | 4,678,287 | YWAM Tokyo (Taito) | Tokyo |  |
+|                  | **Tokyo (West)** | 4,678,287 |  | Tokyo |  |
+|                  | **Kanagawa (West)** | 4,613,950 |  | Tokyo |  |
+|                  | **Kanagawa (East)** | 4,613,950 | YWAM Yokohama | Tokyo |  |
+| **Chubu** |  | **22,599,233** | **2** |  |  |
+|                  | Niigata            | 2,147,126        |  | Niigata         | 1,060,013 (17th) |
+|                  | Toyama             | 1,013,800        |  | Toyama         | 1,066,328 (16th)  |
+|                  | Ishikawa           | 1,115,944        |  |  |  |
+|                  | Fukui              | 750,780        |  |  |  |
+|                  | Yamanashi          | 800,400        |  |  |  |
+|                  | Nagano             | 2,016,467        | Azumino CP           |  |  |
+|                  | Gifu               | 1,943,130        |  |  |  |
+|                  | Shizuoka           | 3,575,454        |  | Hamamatsu       | 1,129,296 (13th) |
+|                  | **Aichi (North)**  | 3,747,599        | YWAM Sakura | Nagoya           | 6,871,632 (3rd) |
+|                  | **Aichi (South)**  | 3,747,599        |  | Nagoya           |  |
+| **Kansai**       |                    | **22,078,903**   | **2** |  |  |
+|                  | Mie                | 1,740,933        |  |  |  |
+|                  | Shiga              | 1,408,499        |  |  |  |
+|                  | **Kyoto**          | 2,546,951        |  | Kyoto            | 2,801,044 (4th) |
+|                  | **Osaka (North)**  | 4,390,597        | YWAM Osaka (Takatsuki) | Osaka         | 12,078,820 (2nd) |
+|                  | **Osaka (South)**  | 4,390,597        |  | Osaka            |  |
+|                  | **Hyogo**          | 5,397,046        | YWAM Kobe            | Kobe             | 2,419,973 (6th) |
+|                  | Nara               | 1,303,658        |  |  |  |
+|                  | Wakayama           | 900,621        |  |  |  |
+| **Chugoku**      |                    | **7,123,412**    | **1** |  |  |
+|                  | Tottori            | 542,359        |  |  |  |
+|                  | Shimane            | 655,754        |  |  |  |
+|                  | **Okayama**        | 1,858,269        |  | Okayama          | 1,526,503 (9th) |
+|                  | **Hiroshima**      | 2,757,379        | YWAM Hiroshima | Hiroshima       | 1,431,634 (10th) |
+|                  | Yamaguchi          | 1,309,651        |  |  |  |
+| **Shikoku**      |                    | **3,610,812**    | **0** |  |  |
+|                  | Tokushima          | 701,962        |  |  |  |
+|                  | Kagawa             | 931,982        |  |  |  |
+|                  | Ehime              | 1,303,051        |  |  |  |
+|                  | Kochi              | 673,817        |  |  |  |
+| **Kyushu & Okinawa** |                | **14,094,166**   | **4** |  |  |
+|                  | Fukuoka            | 5,114,881        | YWAM Fukuoka | Kita-Kyushu     | 1,314,276 (11th) |
+|                  | Saga               | 799,276        |  |  |  |
+|                  | Nagasaki           | 1,279,871        |  |  |  |
+|                  | Kumamoto           | 1,715,769        |  | Kumamoto        | 1,111,596 (14th) |
+|                  | Oita               | 1,104,144        | YWAM Oita            |  |  |
+|                  | Miyazaki           | 1,049,604        |  |  |  |
+|                  | Kagoshima          | 1,561,239        | YWAM Kagoshima       |  |  |
+|                  | Okinawa            | 1,469,382        | YWAM Okinawa         |  |  |
+| **JAPAN**        |                    | **124,214,766** | **14/53** |  |  |
