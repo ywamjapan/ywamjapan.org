@@ -90,4 +90,4 @@ Updated: 2023-02-02
 |                  | Miyazaki           | 1,049,604        |  |  |  |
 |                  | Kagoshima          | 1,561,239        | YWAM Kagoshima       |  |  |
 |                  | Okinawa            | 1,469,382        | YWAM Okinawa         |  |  |
-| **JAPAN**        |                    | **124,214,766** | **14/53** |  |  |
+| **JAPAN**        |                    | **124,214,766** | **15/53** |  |  |
