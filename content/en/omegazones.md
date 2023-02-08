@@ -30,7 +30,7 @@ Updated: 2023-02-02
 | Region | Omega Zone (OZ) | OZ Population | YWAM Location? | Omega City (OC) | OC Population (Rank) |
 | --- | --- | --- | --- | --- | --- |
 | **Hokkaido** |  | **5,140,388** | **2** |  |  |
-|                  | **Hokkaido** | 5,140,388 | YWAM Niseko | Sapporo | 2,362,914 (7th) |
+|                  | **Hokkaido** | 5,140,388 | YWAM Niseko, YWAM Otaru North | Sapporo | 2,362,914 (7th) |
 | **Tohoku** |  | **8,400,960** | **1** |  |  |
 |                  | Aomori | 1,200,464 |  |  |  |
 |                  | Iwate | 1,176,355 |  |  |  |
