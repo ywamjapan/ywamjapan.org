@@ -3,8 +3,11 @@
     "",
     "\\content",
     "\\content\\en",
-    "\\content\\ja"
+    "\\content\\en\\training",
+    "\\content\\ja",
+    "\\content\\ja\\training",
+    "\\content\\ja\\training\\kobe-2023dts"
   ],
-  "SelectedNode": "\\content\\en\\omegazones.md",
+  "SelectedNode": "\\content\\ja\\training\\kobe-2023dts\\about.md",
   "PreviewInSolutionExplorer": false
 }
