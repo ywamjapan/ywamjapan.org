@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: ニセコ・ワイワム
+title: 広島ワイワム
 #hero_media:
 #cta:
 #  label: '**活動拠点**'
