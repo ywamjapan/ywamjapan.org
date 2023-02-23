@@ -42,6 +42,6 @@ We go in the opposite spirit and bring life where there was death. We believe Hi
 
 ## Details
 
-* **Language(s):** English
+* **Language(s):** Japanese, English, Chinese
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Chugoku
-* **Last Updated:** 2023-02-22
+* **Last Updated:** 2023-02-23

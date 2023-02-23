@@ -1,13 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\training",
+    "\\content\\en\\location",
+    "\\content\\en\\location\\fukuoka",
     "\\content\\ja",
-    "\\content\\ja\\training",
-    "\\content\\ja\\training\\kobe-2023dts"
+    "\\content\\ja\\location",
+    "\\content\\ja\\location\\hiroshima"
   ],
-  "SelectedNode": "\\content\\ja\\training\\kobe-2023dts\\about.md",
+  "SelectedNode": "\\content\\ja\\location\\hiroshima\\hero.md",
   "PreviewInSolutionExplorer": false
 }

@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: ywamgfukuoka@gmail.com
+  email: ywamfukuoka@gmail.com
   phone: 080-4388-3927
   address:
     street: 6-50-3 Wakahisa, Minami-ku
