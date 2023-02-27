@@ -35,11 +35,11 @@ Please contact us for more information!
 
 * **UofN Code:** CHR 235
 * **Prerequisites:** DSP 211/212 (DTS)
-* **Start date:** 2023
+* **Start date:** 2023-10-16
 * **Length:** 24 Weeks
 * **Language(s):** English
 * **Course Fees:** N/A
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai
-* **Last Updated:** 2023-01-09
+* **Last Updated:** 2023-02-27

@@ -42,19 +42,7 @@ Frontiers DTS is an invitation from God for those who are hungry to know God and
 After the completion of DTS, we would also like to offer you a second level school which is the SOFM (school of frontier missions) for those who have a calling to be involved in missions. SOFM will equip you for cross cultural frontier missions work.
 
 Topics:
-
-God’s nature and character
-Hearing God’s voice
-Father Heart of God
-Repentance and Forgiveness
-Worship and intercession
-Fear of the Lord
-Lordship
-Spiritual Warfare
-Unity
-Holy Spirit
-Evangelism
-Missions
+God’s nature and character, Hearing God’s voice, Father Heart of God, Repentance and Forgiveness, Worship and intercession, Fear of the Lord, Lordship, Spiritual Warfare, Unity, Holy Spirit, Evangelism, and Missions
 
 Deadline for application: 24 March 2023
 
@@ -65,6 +53,6 @@ Deadline for application: 24 March 2023
 * **Length:** 23 Weeks
 * **Language(s):** English, Japanese, Chinese
 * **Outreach Locations:** N/A
-* **Related Passion:** N/A
+* **Related Passion:** Frontiers
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai
-* **Last Updated:** 2023-02-08
+* **Last Updated:** 2023-02-27

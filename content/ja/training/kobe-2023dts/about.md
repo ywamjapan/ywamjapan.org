@@ -38,6 +38,6 @@ design:
 * **期間:** 24週
 * **言語：** 英語、日本語、中国語
 * **Outreach Locations:** N/A
-* **Related Passion:** N/A
+* **Related Passion:** フロンティア
 * **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関西地方・兵庫県
 * **最終更新：** 2023-02-08
