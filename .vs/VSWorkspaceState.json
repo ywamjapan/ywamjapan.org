@@ -4,12 +4,13 @@
     "\\content",
     "\\content\\en",
     "\\content\\en\\training",
-    "\\content\\en\\training\\sendai-2023dts",
+    "\\content\\en\\training\\kobe-2023sofm",
+    "\\content\\en\\training\\okinawa-2021dts",
     "\\content\\ja",
-    "\\content\\ja\\location",
-    "\\content\\ja\\location\\hiroshima",
     "\\content\\ja\\training",
-    "\\content\\ja\\training\\sendai-2023dts"
+    "\\content\\ja\\training\\kobe-2023dts",
+    "\\content\\ja\\training\\kobe-2023sofm"
   ],
+  "SelectedNode": "\\content\\en\\training\\okinawa-2021dts\\index.md",
   "PreviewInSolutionExplorer": false
 }

@@ -29,7 +29,11 @@ design:
 
 ---
 
+{{< figure library="true" src="ima_2c7e87a.jpeg title="Frontiers DTS" >}}
+
 詳細についてはお問い合わせください。
+
+Deadline for application: 2 April 2023 (feel free to contact us)
 
 ## 詳細
 
@@ -40,4 +44,4 @@ design:
 * **Outreach Locations:** N/A
 * **Related Passion:** フロンティア
 * **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関西地方・兵庫県
-* **最終更新：** 2023-02-08
+* **最終更新：** 2023-03-15

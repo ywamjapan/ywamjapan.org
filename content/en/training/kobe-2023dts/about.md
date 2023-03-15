@@ -37,6 +37,8 @@ The great commission which Jesus gave us is to Go therefore and make disciples o
 
 According to Joshua Project data it shows that there are 4,991 Frontier People Groups (Unreached people group) with a total population of 2,032,952,000. And one fourth of the world lives in these Frontier People Groups. They have almost no chance of hearing about Jesus from someone in their own people group.
 
+{{< figure library="true" src="ima_2c7e87a.jpeg title="Frontiers DTS" >}}
+
 Frontiers DTS is an invitation from God for those who are hungry to know God and His purpose in their lives. This is a good opportunity for you to know God’s heart for the nations and Unreached people groups.
 
 After the completion of DTS, we would also like to offer you a second level school which is the SOFM (school of frontier missions) for those who have a calling to be involved in missions. SOFM will equip you for cross cultural frontier missions work.
@@ -44,7 +46,7 @@ After the completion of DTS, we would also like to offer you a second level scho
 Topics:
 God’s nature and character, Hearing God’s voice, Father Heart of God, Repentance and Forgiveness, Worship and intercession, Fear of the Lord, Lordship, Spiritual Warfare, Unity, Holy Spirit, Evangelism, and Missions
 
-Deadline for application: 24 March 2023
+Deadline for application: 2 April 2023 (feel free to contact us)
 
 ## Details
 
@@ -55,4 +57,4 @@ Deadline for application: 24 March 2023
 * **Outreach Locations:** N/A
 * **Related Passion:** Frontiers
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai
-* **Last Updated:** 2023-02-27
+* **Last Updated:** 2023-03-15
