@@ -37,7 +37,7 @@ The great commission which Jesus gave us is to Go therefore and make disciples o
 
 According to Joshua Project data it shows that there are 4,991 Frontier People Groups (Unreached people group) with a total population of 2,032,952,000. And one fourth of the world lives in these Frontier People Groups. They have almost no chance of hearing about Jesus from someone in their own people group.
 
-{{< figure library="true" src="ima_2c7e87a.jpeg title="Frontiers DTS" >}}
+{{< figure library="true" src="ima_2c7e87a.jpeg" title="Frontiers DTS" >}}
 
 Frontiers DTS is an invitation from God for those who are hungry to know God and His purpose in their lives. This is a good opportunity for you to know God’s heart for the nations and Unreached people groups.
 

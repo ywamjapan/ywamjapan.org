@@ -29,7 +29,7 @@ design:
 
 ---
 
-{{< figure library="true" src="ima_2c7e87a.jpeg title="Frontiers DTS" >}}
+{{< figure library="true" src="ima_2c7e87a.jpeg" title="Frontiers DTS" >}}
 
 詳細についてはお問い合わせください。
 
