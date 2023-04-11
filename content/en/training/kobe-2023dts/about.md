@@ -46,7 +46,6 @@ After the completion of DTS, we would also like to offer you a second level scho
 Topics:
 God’s nature and character, Hearing God’s voice, Father Heart of God, Repentance and Forgiveness, Worship and intercession, Fear of the Lord, Lordship, Spiritual Warfare, Unity, Holy Spirit, Evangelism, and Missions
 
-Deadline for application: 2 April 2023 (feel free to contact us)
 
 ## Details
 
@@ -57,4 +56,4 @@ Deadline for application: 2 April 2023 (feel free to contact us)
 * **Outreach Locations:** N/A
 * **Related Passion:** Frontiers
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai
-* **Last Updated:** 2023-03-15
+* **Last Updated:** 2023-04-11

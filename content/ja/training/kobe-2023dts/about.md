@@ -33,7 +33,6 @@ design:
 
 詳細についてはお問い合わせください。
 
-Deadline for application: 2 April 2023 (feel free to contact us)
 
 ## 詳細
 
@@ -44,4 +43,4 @@ Deadline for application: 2 April 2023 (feel free to contact us)
 * **Outreach Locations:** N/A
 * **Related Passion:** フロンティア
 * **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関西地方・兵庫県
-* **最終更新：** 2023-03-15
+* **最終更新：** 2023-04-11

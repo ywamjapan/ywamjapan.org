@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "弟子訓練学校２０２３年"
+title = "日英弟子訓練学校（JE-DTS）２０２３"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "hero-academic.png"
@@ -51,4 +51,4 @@ title = "弟子訓練学校２０２３年"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-学校｜２０２３年｜宮城県・仙台市
+学校｜２０２３年１０月１３日｜宮城県・仙台市

@@ -49,17 +49,20 @@ title = "Overview"
  css_class = ""
 +++
 
+The Japanese-English Discipleship Training School (JE-DTS) gives you an opportunity to discover your passions and your part in God’s purposes for the world.
+It is especially for those who desire to know God and to make Him known to the Japanese.
+
 First ever DTS in Tohoku, Japan!
 
-[Visit Website](https://www.ywamsendai.org)
+[Visit Website](https://www.ywamsendai.org/en/dts)
 
 ## Details
 
 * **UofN Code:** DSP 211/212
-* **Start date:** 2023
-* **Length:** 22 Weeks
+* **Start date:** 13 October 2023
+* **Length:** 19 Weeks
 * **Language(s):** English, Japanese
 * **Outreach Locations:** TBA
 * **Related Passion:** Japan, Frontier Mission
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Miyagi, Tohoku
-* **Last Updated:** 2023-01-30
+* **Last Updated:** 2023-04-11
