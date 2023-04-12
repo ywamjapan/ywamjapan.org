@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "日英弟子訓練学校（JE-DTS）２０２３"
+title = "２０２３ＤＴＳ（弟子訓練学校）"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "hero-academic.png"

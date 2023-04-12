@@ -3,14 +3,13 @@
     "",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\home",
     "\\content\\en\\training",
-    "\\content\\en\\training\\okinawa-2021dts",
+    "\\content\\en\\training\\sendai-2023dts",
     "\\content\\ja",
     "\\content\\ja\\training",
-    "\\content\\ja\\training\\kobe-2023dts",
-    "\\content\\ja\\training\\kobe-2023sofm"
+    "\\content\\ja\\training\\okinawa-2023dts",
+    "\\content\\ja\\training\\sendai-2023dts"
   ],
-  "SelectedNode": "\\content\\en\\home\\omegazones.md",
+  "SelectedNode": "\\content\\ja\\training\\okinawa-2023dts\\index.md",
   "PreviewInSolutionExplorer": false
 }
