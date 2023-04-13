@@ -14,7 +14,6 @@ design:
   spacing:
   # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "20px", "0"]
-
 ---
 
 DTSはクリスチャンとしての土台を築き上げる訓練プログラムです。
