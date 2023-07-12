@@ -35,20 +35,20 @@ When we prayed for the 2023 SOFM, we sensed that God would use it to help us und
 The harvest is ripe. Are you ready to respond to God's call?
 
 Topics: 
+
 Week1: Intimacy with God
-Week2 Intercession, worship and spiritual warfare
+Week2: Intercession, worship and spiritual warfare
 Week3: Simple church/ making disciples/ Cross cultural Evangelism
-Week4: Cross cultural and team adjustment,
-Avoiding burnout
+Week4: Cross cultural and team adjustment, Avoiding burnout
 Week5: Local outreach/ application time
-Week6: Comparative and Biblical world view
+Week6: Comparative and Biblical worldview
 Week7: The cost of discipleship. Experiencing God in suffering. Growing in character.
-Week8: Church planting DMM
-Week9:  Unity/ relationships team formation
+Week8: Church planting/ DMM
+Week9: Unity/ relationships team formation
 Week10: Local outreach/ application time
 Week11: Pioneering
 Week12: Know and teach the Bible
-Week13: Church planting /DMM
+Week13: Church planting/ DMM
 Week14: Holy Spirit - the power and passion of missions
 
 Deadline is 15 September 2023
