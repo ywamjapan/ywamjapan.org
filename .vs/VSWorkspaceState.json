@@ -3,12 +3,12 @@
     "",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\training",
     "\\content\\en\\training\\sendai-2023dts",
     "\\content\\ja",
     "\\content\\ja\\training",
     "\\content\\ja\\training\\okinawa-2023dts",
     "\\content\\ja\\training\\sendai-2023dts"
   ],
+  "SelectedNode": "\\content\\en\\values.md",
   "PreviewInSolutionExplorer": false
 }
