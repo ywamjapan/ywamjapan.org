@@ -56,6 +56,8 @@ Topics:
 
 Deadline is 15 September 2023
 
+The school fee for SOFM is ¥350,000. Our school aims to provide for basic needs because we want our students to learn how to live out the principles of cross-cultural missions, practice faith, engage in fundraising, and develop budgeting skills. Students need to have extra ground fee rounded up to ¥170,000 for personal use.
+
 Please send us an email for registration at ywamkobe@gmail.com
 
 ## Details
@@ -63,10 +65,10 @@ Please send us an email for registration at ywamkobe@gmail.com
 * **UofN Code:** CHR 235
 * **Prerequisites:** DSP 211/212 (DTS)
 * **Start date:** 2023-10-16
-* **Length:** 24 Weeks
+* **Length:** 14 Weeks
 * **Language(s):** English
-* **Course Fees:** N/A
+* **Course Fees:** ¥350,000
 * **Outreach Locations:** N/A
-* **Related Passion:** N/A
+* **Related Passion:** Cross cultural mission
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai
-* **Last Updated:** 2023-07-12
+* **Last Updated:** 2023-07-17

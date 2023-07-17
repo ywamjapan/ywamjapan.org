@@ -36,10 +36,10 @@ design:
 * **UofNコード：** CHR 235
 * **前提条件：** DSP 211/212 (DTS)
 * **開講日:** 2023年10月16日
-* **期間:** 24週
+* **期間:** 14週
 * **言語：** 英語
-* **Course Fees:** N/A
+* **Course Fees:** ¥350,000
 * **Outreach Locations:** N/A
-* **Related Passion:** N/A
+* **Related Passion:** ミッション
 * **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関西地方・兵庫県
-* **最終更新：** 2023-02-27
+* **最終更新：** 2023-07-17
