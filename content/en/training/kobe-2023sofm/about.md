@@ -56,7 +56,12 @@ Topics:
 
 Deadline is 15 September 2023
 
-The school fee for SOFM is ¥350,000. Our school aims to provide for basic needs because we want our students to learn how to live out the principles of cross-cultural missions, practice faith, engage in fundraising, and develop budgeting skills. Students need to have extra ground fee rounded up to ¥170,000 for personal use.
+Lecture Phase School Fee: ¥350,000
+(School fee includes registration, accommodation, administration, one meal during weekday and resources)
+
+Lecture Phase Personal Ground Fee: ¥170,000
+
+3 months Outreach Fee: Depending on location.
 
 Please send us an email for registration at ywamkobe@gmail.com
 
@@ -71,4 +76,4 @@ Please send us an email for registration at ywamkobe@gmail.com
 * **Outreach Locations:** N/A
 * **Related Passion:** Cross cultural mission
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Hyogo, Kansai
-* **Last Updated:** 2023-07-17
+* **Last Updated:** 2023-09-01

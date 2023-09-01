@@ -4,12 +4,13 @@
     "\\content",
     "\\content\\en",
     "\\content\\en\\training",
-    "\\content\\en\\training\\kobe-2023sofm",
     "\\content\\en\\training\\sendai-2023dts",
+    "\\content\\ja",
     "\\content\\ja\\training",
+    "\\content\\ja\\training\\kobe-2023sofm",
     "\\content\\ja\\training\\okinawa-2023dts",
     "\\content\\ja\\training\\sendai-2023dts"
   ],
-  "SelectedNode": "\\content\\en\\training\\kobe-2023sofm\\about.md",
+  "SelectedNode": "\\content\\ja\\training\\kobe-2023sofm\\about.md",
   "PreviewInSolutionExplorer": false
 }
