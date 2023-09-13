@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: 概要
+title: Overview
 subtitle: ''
 
 design:
@@ -29,15 +29,15 @@ design:
 
 ---
 
-[ホームページへ](https://www.ywamyokohama.org/general-1)（英語）
+[Visit Website](https://www.ywamyokohama.org/general-1)
 
-## 詳細
+## Details
 
-* **UofNコード：** DSP 211/212
-* **開講日:** 2023年3月19日
-* **期間:** 24週
-* **言語：** 英語
+* **UofN Code:** DSP 211/212
+* **Start date:** 2024-04
+* **Length:** 23 Weeks
+* **Language(s):** English, Japanese
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関東地方・神奈川県東部
-* **最終更新：** 2022-10-13
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** East Kanagawa, Kanto
+* **Last Updated:** 2023-09-13

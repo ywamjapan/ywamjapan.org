@@ -2,11 +2,11 @@
 widget: hero
 headless: true
 weight: 1
-title: 弟子訓練学校２０２３年
+title: 弟子訓練学校２０２４年
 #hero_media:
 cta:
-  label: '**高槻ワイワム、大阪府北部**'
-  url: '/location/takatsuki'
+  label: '**横浜ワイワム、神奈川東部**'
+  url: '/location/yokohama'
 #  icon: compass
 #  icon_pack: fas
 #cta_alt:
@@ -19,7 +19,7 @@ design:
   background:
 #    gradient_end: '#1976d2'
 #    gradient_start: '#004ba0'
-    image: takatsuki.jpg
+    image: yokohama.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-学校｜２０２３年４月｜大阪府北部・高槻市
+学校｜２０２４年４月｜神奈川県東部・横浜市

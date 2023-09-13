@@ -2,10 +2,10 @@
 widget: hero
 headless: true
 weight: 1
-title: 2023 Discipleship Training School
+title: 弟子訓練学校２０２４年
 #hero_media:
 cta:
-  label: '**YWAM Takatsuki, North Osaka**'
+  label: '**高槻ワイワム、大阪府北部**'
   url: '/location/takatsuki'
 #  icon: compass
 #  icon_pack: fas
@@ -19,7 +19,7 @@ design:
   background:
 #    gradient_end: '#1976d2'
 #    gradient_start: '#004ba0'
-    image: takatsuki-2020dts.jpg
+    image: takatsuki.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-2023
+学校｜２０２４年４月３０日｜大阪府北部・高槻市

@@ -29,15 +29,15 @@ design:
 
 ---
 
-[ホームページへ](https://www.ywamtakatsuki.org/dts)
+[ホームページへ](https://www.ywamyokohama.org/general-1)（英語）
 
 ## 詳細
 
 * **UofNコード：** DSP 211/212
-* **開講日:** 2023年4月
-* **期間:** 22週
-* **言語：** 英語
+* **開講日:** 2024年4月
+* **期間:** 24週
+* **言語：** 英語、日本語
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関西地方・大阪府北部
-* **最終更新：** 2022-10-11
+* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 関東地方・神奈川県東部
+* **最終更新：** 2023-09-13

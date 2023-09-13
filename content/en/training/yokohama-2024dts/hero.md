@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: 2023 Discipleship Training School
+title: 2024 Discipleship Training School
 #hero_media:
 cta:
   label: '**YWAM Yokohama, East Kanagawa**'
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-19 March 2023
+April 2024
