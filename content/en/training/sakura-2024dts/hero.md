@@ -2,11 +2,11 @@
 widget: hero
 headless: true
 weight: 1
-title: 第41期 YWAM-DTS弟子訓練学校
+title: 2024 Discipleship Training School
 #hero_media:
 cta:
-  label: '**沖縄ワイワム、沖縄県**'
-  url: '/location/okinawa'
+  label: '**YWAM Sakura, Shizuoka**'
+  url: '/location/sakura'
 #  icon: compass
 #  icon_pack: fas
 #cta_alt:
@@ -19,7 +19,7 @@ design:
   background:
 #    gradient_end: '#1976d2'
 #    gradient_start: '#004ba0'
-    image: okinawa.jpeg
+    image: yokohama.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-学校｜２０２３年４月２４日｜沖縄県・うるま市
+31 March 2024

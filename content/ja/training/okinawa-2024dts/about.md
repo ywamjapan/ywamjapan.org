@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Overview
+title: 概要
 subtitle: ''
 
 design:
@@ -29,17 +29,15 @@ design:
 
 ---
 
-The 41st DTS in Okinawa will be a bilingual DTS help in both Japanese and English!
+[ホームページへ](https://www.ywamokinawa.org/dts/)
 
-[Visit Website](https://www.ywamokinawa.org/dts/) (Japanese)
+## 詳細
 
-## Details
-
-* **UofN Code:** DSP 211/212
-* **Start date:** 24 April 2023
-* **Length:** 23 Weeks
-* **Language(s):** Japanese, English
+* **UofNコード：** DSP 211/212
+* **開講日:** 2024年4月22日
+* **期間:** 24週
+* **言語：** 日本語
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Okinawa, Kyushu
-* **Last Updated:** 2023-02-01
+* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 九州地方・沖縄県
+* **最終更新：** 2023-09-20

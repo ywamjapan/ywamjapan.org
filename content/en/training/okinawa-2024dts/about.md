@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: 概要
+title: Overview
 subtitle: ''
 
 design:
@@ -29,15 +29,15 @@ design:
 
 ---
 
-[ホームページへ](https://www.ywamokinawa.org/dts/)
+[Visit Website](https://www.ywamokinawa.org/dts/) (Japanese)
 
-## 詳細
+## Details
 
-* **UofNコード：** DSP 211/212
-* **開講日:** 2023年4月24日
-* **期間:** 24週
-* **言語：** 日本語、英語
+* **UofN Code:** DSP 211/212
+* **Start date:** 22 April 2024
+* **Length:** 23 Weeks
+* **Language(s):** Japanese
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[地域とオメガゾーン]({{< ref "../../omegazones.md" >}})：** 九州地方・沖縄県
-* **最終更新：** 2023-02-01
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Okinawa, Kyushu
+* **Last Updated:** 2023-09-20

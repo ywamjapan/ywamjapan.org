@@ -1,6 +1,6 @@
 ---
-title: YWAM Okinawa | 2023 DTS
-summary: Training | 24 April 2023 - Uruma City, Okinawa
+title: YWAM Okinawa | 2024 DTS
+summary: Training | 22 April 2024 - Uruma City, Okinawa
 type: "widget_page"
 tags: ["Explore", "Okinawa", "Training", "DTS"]
 draft: true

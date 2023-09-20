@@ -2,11 +2,11 @@
 widget: hero
 headless: true
 weight: 1
-title: 41st DTS
+title: 弟子訓練学校２０２４年
 #hero_media:
 cta:
-  label: '**YWAM Okinawa, Okinawa**'
-  url: '/location/okinawa'
+  label: '**桜ワイワム、静岡県**'
+  url: '/location/sakura'
 #  icon: compass
 #  icon_pack: fas
 #cta_alt:
@@ -19,7 +19,7 @@ design:
   background:
 #    gradient_end: '#1976d2'
 #    gradient_start: '#004ba0'
-    image: okinawa.jpeg
+    image: yokohama.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-24 April 2023
+学校｜２０２４年３月３１日｜中部地方・静岡県
