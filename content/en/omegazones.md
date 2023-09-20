@@ -21,7 +21,7 @@ As most people in Japan live in urban areas, we can also highlight the most popu
 
 # Omega Zones & Cities in Japan
 
-Japan has a total of 53 Omega Zones. Currently 38 Omega Zones have no YWAM ministries. There are also 17 urban areas with a population of over 1 million. 9 of these Omega Cities have no YWAM ministries.
+Japan has a total of 53 Omega Zones. Currently 39 Omega Zones have no YWAM ministries. There are also 17 urban areas with a population of over 1 million. 9 of these Omega Cities have no YWAM ministries.
 
 Here you can find a table detailing all of the Omega Zones in Japan, separated by region. The Omega Cities having over 1 million people have also been highlighted.
 
@@ -58,8 +58,8 @@ Updated: 2023-02-02
 |                  | Yamanashi          | 800,400        |  |  |  |
 |                  | Nagano             | 2,016,467        | Azumino CP           |  |  |
 |                  | Gifu               | 1,943,130        |  |  |  |
-|                  | Shizuoka           | 3,575,454        |  | Hamamatsu       | 1,129,296 (13th) |
-|                  | **Aichi (North)**  | 3,747,599        | YWAM Sakura | Nagoya           | 6,871,632 (3rd) |
+|                  | Shizuoka           | 3,575,454        | YWAM Sakura | Hamamatsu       | 1,129,296 (13th) |
+|                  | **Aichi (North)**  | 3,747,599        |  | Nagoya           | 6,871,632 (3rd) |
 |                  | **Aichi (South)**  | 3,747,599        |  | Nagoya           |  |
 | **Kansai**       |                    | **22,078,903**   | **2** |  |  |
 |                  | Mie                | 1,740,933        |  |  |  |

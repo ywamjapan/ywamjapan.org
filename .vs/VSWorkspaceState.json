@@ -3,14 +3,14 @@
     "",
     "\\content",
     "\\content\\en",
-    "\\content\\en\\training",
-    "\\content\\en\\training\\takatsuki-2024dts",
-    "\\content\\en\\training\\yokohama-2024dts",
+    "\\content\\en\\location",
     "\\content\\ja",
+    "\\content\\ja\\location",
     "\\content\\ja\\training",
-    "\\content\\ja\\training\\takatsuki-2024dts",
+    "\\content\\ja\\training\\okinawa-2024dts",
+    "\\content\\ja\\training\\sakura-2024dts",
     "\\content\\ja\\training\\yokohama-2024dts"
   ],
-  "SelectedNode": "\\content\\ja\\training\\yokohama-2024dts\\hero.md",
+  "SelectedNode": "\\content\\en\\omegazones.md",
   "PreviewInSolutionExplorer": false
 }

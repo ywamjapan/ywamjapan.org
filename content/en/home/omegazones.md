@@ -32,6 +32,6 @@ The world has been divided up into around 4,200 **Omega Zones**. These are deter
 
 A vision of YWAM is to establish ministries and disciple-making movements (church planting) in all of these 4,200 Omega Zones.
 
-Japan has a total of 53 Omega Zones. Currently 42 Omega Zones have no YWAM ministries.
+Japan has a total of 53 Omega Zones. Currently 39 Omega Zones have no YWAM ministries.
 
 [Omega Zones in Japan >]({{< ref "/omegazones.md" >}})
