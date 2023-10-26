@@ -3,13 +3,14 @@
     "",
     "\\content",
     "\\content\\en",
+    "\\content\\en\\location",
     "\\content\\en\\training",
-    "\\content\\en\\training\\yokohama-2024dts",
+    "\\content\\en\\training\\sakura-2024dts",
     "\\content\\ja",
     "\\content\\ja\\training",
     "\\content\\ja\\training\\sakura-2024dts",
     "\\content\\ja\\training\\yokohama-2024dts"
   ],
-  "SelectedNode": "\\content\\ja\\training\\yokohama-2024dts",
+  "SelectedNode": "\\content\\ja\\training\\sakura-2024dts\\index.md",
   "PreviewInSolutionExplorer": false
 }

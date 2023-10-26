@@ -19,7 +19,7 @@ design:
   background:
 #    gradient_end: '#1976d2'
 #    gradient_start: '#004ba0'
-    image: yokohama.jpg
+    image: sakura.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center
