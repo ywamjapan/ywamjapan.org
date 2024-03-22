@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "2023 Discipleship Training School"
+title = "２０２４ＤＴＳ（弟子訓練学校）"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "hero-academic.png"
@@ -38,7 +38,7 @@ title = "2023 Discipleship Training School"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "/location/sendai"
-  label = "YWAM Sendai, Miyagi"
+  label = "仙台ワイワム、宮城県"
 #   icon_pack = "fas"
 #   icon = "download"
 
@@ -51,4 +51,4 @@ title = "2023 Discipleship Training School"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-13 October 2023
+学校｜２０２４年１０月７日｜宮城県・仙台市

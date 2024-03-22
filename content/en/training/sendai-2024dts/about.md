@@ -26,10 +26,10 @@ First ever DTS in Tohoku, Japan!
 ## Details
 
 * **UofN Code:** DSP 211/212
-* **Start date:** 13 October 2023
-* **Length:** 19 Weeks
+* **Start date:** 7 October 2024
+* **Length:** 20 Weeks
 * **Language(s):** English, Japanese
 * **Outreach Locations:** TBA
 * **Related Passion:** Japan, Frontier Mission
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Miyagi, Tohoku
-* **Last Updated:** 2023-04-11
+* **Last Updated:** 2024-03-22
