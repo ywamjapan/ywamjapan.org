@@ -50,7 +50,7 @@ content:
     - icon: globe
       icon_pack: fas
       name: Website
-      link: 'https://www.ywamsendai.jp'
+      link: 'https://www.ywamsendai.org'
 
 design:
   columns: '2'

@@ -47,10 +47,10 @@ content:
   #    icon_pack: fab
   #    name: DM Me
   #    link: 'https://twitter.com/Twitter'
-  #  - icon: globe
-  #    icon_pack: fas
-  #    name: Website
-  #    link: 'https://ywamtokyo.org'
+   - icon: globe
+     icon_pack: fas
+     name: Website
+     link: 'https://ywamkobe.org/'
 
 design:
   columns: '2'
