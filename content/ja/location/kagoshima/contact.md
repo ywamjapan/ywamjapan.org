@@ -50,7 +50,7 @@ content:
     - icon: globe
       icon_pack: fas
       name: Website
-      link: 'http://hopekago.luna.weblife.me/index.html'
+      link: 'https://hopech-kagoshima.com/'
 
 design:
   columns: '2'
