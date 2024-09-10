@@ -2,10 +2,10 @@
 widget: hero
 headless: true
 weight: 1
-title: 第42期 YWAM-DTS弟子訓練学校
+title: Discipleship Bible School
 #hero_media:
 cta:
-  label: '**沖縄ワイワム、沖縄県**'
+  label: '**YWAM Okinawa, Okinawa**'
   url: '/location/okinawa'
 #  icon: compass
 #  icon_pack: fas
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-学校｜２０２４年４月２２日｜沖縄県・うるま市
+16 March 2025

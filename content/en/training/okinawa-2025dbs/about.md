@@ -29,15 +29,14 @@ design:
 
 ---
 
-[Visit Website](https://www.ywamokinawa.org/dts/) (Japanese)
+[Visit Website](https://www.ywamokinawa.org/) (Japanese)
 
 ## Details
 
-* **UofN Code:** DSP 211/212
-* **Start date:** 22 April 2024
-* **Length:** 23 Weeks
-* **Language(s):** Japanese
+* **UofN Code:** CHR 205
+* **Start date:** 16 March 2025
+* **Length:** 12 Weeks
+* **Language(s):** English, Japanese
 * **Outreach Locations:** N/A
-* **Related Passion:** N/A
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Okinawa, Kyushu
-* **Last Updated:** 2023-09-20
+* **Last Updated:** 2024-09-10

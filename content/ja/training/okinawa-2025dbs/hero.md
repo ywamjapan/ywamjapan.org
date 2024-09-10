@@ -2,10 +2,10 @@
 widget: hero
 headless: true
 weight: 1
-title: 42nd DTS
+title: 弟子訓練聖書学校（DBS）
 #hero_media:
 cta:
-  label: '**YWAM Okinawa, Okinawa**'
+  label: '**沖縄ワイワム、沖縄県**'
   url: '/location/okinawa'
 #  icon: compass
 #  icon_pack: fas
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-22 April 2024
+学校｜２０２５年３月１６日｜沖縄県・うるま市
