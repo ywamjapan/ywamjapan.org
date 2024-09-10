@@ -25,32 +25,32 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: ywamniseko@gmail.com
-  phone: 080-4722-4471
+  email: ywamotaru@gmail.com
+  #phone: 080-4722-4471
   address:
-    street: Niseko
-    city: Abuta District
-    region: Hokkaido
+    #street: ニセコ
+    city: 小樽市
+    region: 北海道
     #postcode: '399-8201'
-    country: Japan
+    country: 日本
     country_code: JP
   coordinates:
-    latitude: '42.805638'
-    longitude: '140.686590'
+    latitude: '43.156463748559545'
+    longitude: '141.02507286098734'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
   contact_links:
-  #  - icon: twitter
-  #    icon_pack: fab
-  #    name: DM Me
-  #    link: 'https://twitter.com/Twitter'
-    - icon: globe
-      icon_pack: fas
-      name: Website
-      link: 'https://ywamniseko.org'
+    - icon: instagram
+      icon_pack: fab
+      name: DM Me
+      link: 'https://instagram.com/ywamotaru'
+  #  - icon: globe
+  #    icon_pack: fas
+  #    name: Website
+  #    link: 'https://ywamniseko.org'
 
 design:
   columns: '2'

@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: YWAM Niseko
+title: YWAM Otaru
 #hero_media:
 #cta:
 #  label: '**活動拠点**'
@@ -19,7 +19,7 @@ design:
   background:
 #    gradient_end: '#1976d2'
 #    gradient_start: '#004ba0'
-    image: niseko.jpg
+    image: otaru.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-Niseko Town, Abuta District, Hokkaido, Japan
+Otaru City, Hokkaido, Japan
