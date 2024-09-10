@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: 高槻ワイワム
+title: 大阪ワイワム
 #hero_media:
 #cta:
 #  label: '**活動拠点**'

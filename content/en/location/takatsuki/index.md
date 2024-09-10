@@ -1,5 +1,5 @@
 ---
-title: YWAM Takatsuki (Osaka)
+title: YWAM Osaka
 summary: Location | Takatsuki City, North Osaka, Kansai
 type: "widget_page"
 tags: ["Explore", "Kansai", "Location"]
