@@ -29,25 +29,15 @@ design:
 
 ---
 
-Do you have a heart for missions?
-
-Do you want to grow in intimacy in your relationship with God?
-
-Do you love Japan and the nations?
-
-Then DTS might be for you!
-
-The Discipleship Training School (DTS) is a six month Christian course designed to help you grow and equip your walk with God. The purpose of DTS is to increase your intimate relationship with Him, so that you can live out a missional lifestyle wherever you are in the world.
-
-[Visit Website](https://www.ywamtakatsuki.org/dts)
+[Visit Website](https://www.ywamyokohama.org/general-1)
 
 ## Details
 
 * **UofN Code:** DSP 211/212
-* **Start date:** 2024-04-30
-* **Length:** 22 Weeks
+* **Start date:** 2025-03-01
+* **Length:** 23 Weeks
 * **Language(s):** English, Japanese
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
-* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** North Osaka, Kansai
-* **Last Updated:** 2023-09-13
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** East Kanagawa, Kanto
+* **Last Updated:** 2024-09-10

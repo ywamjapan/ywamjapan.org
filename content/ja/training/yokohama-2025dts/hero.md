@@ -2,11 +2,11 @@
 widget: hero
 headless: true
 weight: 1
-title: 2024 Discipleship Training School
+title: 弟子訓練学校２０２５年
 #hero_media:
 cta:
-  label: '**YWAM Takatsuki, North Osaka**'
-  url: '/location/takatsuki'
+  label: '**横浜ワイワム、神奈川東部**'
+  url: '/location/yokohama'
 #  icon: compass
 #  icon_pack: fas
 #cta_alt:
@@ -19,7 +19,7 @@ design:
   background:
 #    gradient_end: '#1976d2'
 #    gradient_start: '#004ba0'
-    image: takatsuki-2020dts.jpg
+    image: yokohama.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-30 April 2024
+学校｜２０２５年３月１日｜神奈川県東部・横浜市
