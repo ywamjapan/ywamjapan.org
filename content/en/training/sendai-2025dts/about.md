@@ -17,19 +17,18 @@ design:
 ---
 
 The Sendai Discipleship Training School (DTS) gives you an opportunity to discover your passions and your part in God’s purposes for the world.
-It is especially for those who desire to know God and to make Him known to the Japanese.
 
-First ever DTS in Tohoku, Japan!
+It is especially for those who desire to know God and to make Him known to the Japanese.
 
 [Visit Website](https://www.ywamsendai.org/en/dts)
 
 ## Details
 
 * **UofN Code:** DSP 211/212
-* **Start date:** 7 October 2024
+* **Start date:** October 2025
 * **Length:** 20 Weeks
 * **Language(s):** English, Japanese
 * **Outreach Locations:** TBA
 * **Related Passion:** Japan, Frontier Mission
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Miyagi, Tohoku
-* **Last Updated:** 2024-03-22
+* **Last Updated:** 2024-10-12

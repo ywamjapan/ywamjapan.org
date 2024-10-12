@@ -34,10 +34,10 @@ design:
 ## Details
 
 * **UofN Code:** DSP 211/212
-* **Start date:** 2024-03-31
+* **Start date:** 2025-03-17
 * **Length:** 23 Weeks
-* **Language(s):** Portuguese
+* **Language(s):** Portuguese, English
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):**  Shizuoka, Chubu
-* **Last Updated:** 2023-09-20
+* **Last Updated:** 2024-10-12

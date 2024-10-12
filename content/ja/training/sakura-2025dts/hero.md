@@ -2,10 +2,10 @@
 widget: hero
 headless: true
 weight: 1
-title: 2024 Discipleship Training School
+title: 弟子訓練学校２０２５年
 #hero_media:
 cta:
-  label: '**YWAM Sakura, Shizuoka**'
+  label: '**桜ワイワム、静岡県**'
   url: '/location/sakura'
 #  icon: compass
 #  icon_pack: fas
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-31 March 2024
+学校｜２０２５年３月１７日｜中部地方・静岡県
