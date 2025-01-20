@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets\\images",
+    "\\assets\\media",
+    "\\config",
+    "\\config\\_default",
     "\\content",
-    "\\content\\en",
-    "\\content\\en\\location",
-    "\\content\\en\\training",
-    "\\content\\en\\training\\sakura-2024dts",
     "\\content\\ja",
     "\\content\\ja\\training",
     "\\content\\ja\\training\\sakura-2024dts",
     "\\content\\ja\\training\\yokohama-2024dts"
   ],
-  "SelectedNode": "\\content\\ja\\training\\sakura-2024dts\\index.md",
+  "SelectedNode": "\\config\\_default\\config.yaml",
   "PreviewInSolutionExplorer": false
 }

@@ -31,6 +31,6 @@ design:
 
 ## Details
 
-* **Language(s):** Japanese, Korean
+* **Language(s):** Japanese, Korean, English
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Okinawa, Kyushu
-* **Last Updated:** 2022-10-13
+* **Last Updated:** 2025-01-20
