@@ -1,16 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\images",
-    "\\assets\\media",
     "\\config",
     "\\config\\_default",
     "\\content",
+    "\\content\\en",
+    "\\content\\en\\training",
     "\\content\\ja",
-    "\\content\\ja\\training",
-    "\\content\\ja\\training\\sakura-2024dts",
-    "\\content\\ja\\training\\yokohama-2024dts"
+    "\\content\\ja\\training"
   ],
-  "SelectedNode": "\\config\\_default\\config.yaml",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
