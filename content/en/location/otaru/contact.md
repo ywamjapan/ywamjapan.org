@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: ywamotaru@gmail.com
+  email: ywamotaru.info@gmail.com
   phone: 080-4722-4471
   address:
     #street: Niseko
@@ -47,10 +47,10 @@ content:
       icon_pack: fab
       name: DM Me
       link: 'https://instagram.com/ywamotaru'
-  #  - icon: globe
-  #    icon_pack: fas
-  #    name: Website
-  #    link: 'https://ywamniseko.org'
+    - icon: globe
+      icon_pack: fas
+      name: Website
+      link: 'https://ywamotaru.org'
 
 design:
   columns: '2'
