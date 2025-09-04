@@ -50,7 +50,7 @@ content:
     - icon: globe
       icon_pack: fas
       name: Website
-      link: 'https://www.ywamtakatsuki.org'
+      link: 'https://www.ywamosaka.org/'
 
 design:
   columns: '2'
