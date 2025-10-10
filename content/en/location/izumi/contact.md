@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  #email: ywamfukuoka@gmail.com
+  email: info@ywamizumi.com
   #phone: 080-4388-3927
   address:
     street: 4-3-82 Fuseyacho
@@ -43,10 +43,10 @@ content:
   #  - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
   contact_links:
-  #  - icon: twitter
-  #    icon_pack: fab
-  #    name: DM Me
-  #    link: 'https://twitter.com/Twitter'
+    - icon: instagram
+      icon_pack: fab
+      name: Instagram
+      link: 'https://www.instagram.com/ywam.izumi'
   #  - icon: globe
   #    icon_pack: fas
   #    name: Website

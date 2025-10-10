@@ -43,10 +43,18 @@ content:
   #  - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
   contact_links:
-  #  - icon: twitter
-  #    icon_pack: fab
-  #    name: DM Me
-  #    link: 'https://twitter.com/Twitter'
+    - icon: x-twitter
+      icon_pack: fab
+      name: X
+      link: 'https://www.x.com/ywamsendai'
+    - icon: instagram
+      icon_pack: fab
+      name: Instagram
+      link: 'https://www.instagram.com/ywamsendai'
+    - icon: discord
+      icon_pack: fab
+      name: Discord
+      link: 'https://discord.gg/djmCF4DBaV'
     - icon: globe
       icon_pack: fas
       name: Website

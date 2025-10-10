@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  #email: info@ywamtakatsuki.org
+  email: info@ywamizumi.com
   #phone: 07-2669-0555
   address:
     street: 伏屋町４丁目３−８２
@@ -43,10 +43,10 @@ content:
   #  - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
   contact_links:
-  #  - icon: twitter
-  #    icon_pack: fab
-  #    name: DM Me
-  #    link: 'https://twitter.com/Twitter'
+    - icon: instagram
+      icon_pack: fab
+      name: Instagram
+      link: 'https://www.instagram.com/ywam.izumi'
   #  - icon: globe
   #    icon_pack: fas
   #    name: Website
