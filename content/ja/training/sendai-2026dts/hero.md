@@ -51,4 +51,4 @@ title = "２０２６ＤＴＳ（弟子訓練学校）"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-学校｜２０２６年９月｜宮城県・仙台市
+学校｜２０２６年９月２４日｜宮城県・仙台市

@@ -25,10 +25,10 @@ It is especially for those who desire to know God and to make Him known to the J
 ## Details
 
 * **UofN Code:** DSP 211/212
-* **Start date:** September 2026
-* **Length:** 20 Weeks
+* **Start date:** 24 September 2026
+* **Length:** 22 Weeks
 * **Language(s):** English, Japanese
-* **Outreach Locations:** TBA
-* **Related Passion:** Japan, Frontier Mission
+* **Outreach Locations:** TBA, Tohoku
+* **Related Passion:** Tohoku, Frontier Mission
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Miyagi, Tohoku
-* **Last Updated:** 2025-10-08
+* **Last Updated:** 2025-11-13
