@@ -25,18 +25,18 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: info@ywamosaka.org
-  phone: 07-2669-0555
+  #email: ywamsakura@gmail.com
+  #phone: 0263-87-0034
   address:
-    street: 2-15-3 Kanmaki-cho
-    city: Takatsuki
-    region: Osaka
-    postcode: '569-0003'
-    country: Japan
+  #  street: 2303-4 Misatomeisei
+  #  city: Higashikurume
+  #  region: 静岡県
+    #postcode: '399-8201'
+    country: 日本
     country_code: JP
-  coordinates:
-    latitude: '34.864127'
-    longitude: '135.662477'
+  #coordinates:
+  #  latitude: '35.758914'
+  #  longitude: '139.538747'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
@@ -47,10 +47,10 @@ content:
   #    icon_pack: fab
   #    name: DM Me
   #    link: 'https://twitter.com/Twitter'
-    - icon: globe
+   - icon: globe
       icon_pack: fas
       name: Website
-      link: 'https://www.ywamosaka.org/'
+      link: 'https://islandbreezejp.kit.com/staff/student'
 
 design:
   columns: '2'

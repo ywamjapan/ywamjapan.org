@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: info@ywamtakatsuki.org
+  email: info@ywamosaka.org
   phone: 07-2669-0555
   address:
     street: 上牧町2-15-3
