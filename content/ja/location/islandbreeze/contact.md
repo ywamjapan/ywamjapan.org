@@ -25,12 +25,12 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  #email: ywamsakura@gmail.com
+  email: islandbreezeinjp@gmail.com
   #phone: 0263-87-0034
   address:
   #  street: 2303-4 Misatomeisei
-  #  city: Higashikurume
-  #  region: 静岡県
+    city: 寝屋川市
+    region: 大阪府
     #postcode: '399-8201'
     country: 日本
     country_code: JP
@@ -47,7 +47,7 @@ content:
   #    icon_pack: fab
   #    name: DM Me
   #    link: 'https://twitter.com/Twitter'
-   - icon: globe
+    - icon: globe
       icon_pack: fas
       name: Website
       link: 'https://islandbreezejp.kit.com/staff/student'

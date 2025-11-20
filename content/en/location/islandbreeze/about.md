@@ -37,6 +37,6 @@ Our multicultural Island Breeze team engages with communities across Japan throu
 ## Details
 
 * **Language(s):** English
-* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Shizuoka, Chubu
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Osaka, Kansai
 * **Last Updated:** 2025-11-21
 s

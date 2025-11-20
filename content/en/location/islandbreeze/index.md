@@ -1,6 +1,6 @@
 ---
 title: Island Breeze Japan
-summary: Location | Shizuoka, Chubu
+summary: Location | Neyagawa City, Osaka, Kansai
 type: "widget_page"
-tags: ["Explore", "Chubu", "Location"]
+tags: ["Explore", "Kansai", "Location"]
 ---

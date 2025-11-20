@@ -1,6 +1,6 @@
 ---
 title: アイランドブリーズ・ジャパン
-summary: 場所｜中部地方・静岡県
+summary: 場所｜関西地方・大阪府・寝屋川市
 type: "widget_page"
-tags: ["Explore", "Chubu", "Location"]
+tags: ["Explore", "Kansai", "Location"]
 ---
