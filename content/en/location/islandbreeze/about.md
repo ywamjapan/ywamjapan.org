@@ -39,4 +39,3 @@ Our multicultural Island Breeze team engages with communities across Japan throu
 * **Language(s):** English
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Osaka, Kansai
 * **Last Updated:** 2025-11-21
-s
