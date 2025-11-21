@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: rue
 
 # Order that this section appears on the page.
 weight: 30
