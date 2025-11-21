@@ -29,7 +29,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
     - name: All
-      tag: Islandbreeze
+      tag: islandbreeze
     #- name: DTS
     #  tag: Azumino-DTS
     #- name: SBS
