@@ -1,6 +1,6 @@
 ---
 title: YWAM Sakura
-summary: Location | Shizuoka, Chubu
+summary: Location | Aichi, Chubu
 type: "widget_page"
 tags: ["Explore", "Chubu", "Location"]
 ---

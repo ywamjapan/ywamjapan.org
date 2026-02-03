@@ -32,5 +32,5 @@ design:
 ## Details
 
 * **Language(s):** Portuguese
-* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Shizuoka, Chubu
-* **Last Updated:** 2022-10-13
+* **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Aichi, Chubu
+* **Last Updated:** 2026-02-03

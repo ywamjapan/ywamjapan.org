@@ -29,8 +29,8 @@ content:
   #phone: 0263-87-0034
   address:
   #  street: 2303-4 Misatomeisei
-  #  city: Higashikurume
-    region: 静岡県
+    city: 蒲郡市
+    region: 愛知県
     #postcode: '399-8201'
     country: 日本
     country_code: JP

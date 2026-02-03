@@ -29,8 +29,8 @@ content:
   #phone: 0263-87-0034
   address:
   #  street: 2303-4 Misatomeisei
-  #  city: Higashikurume
-    region: Shizuoka
+    city: Gamagori
+    region: Aichi
     #postcode: '399-8201'
     country: Japan
     country_code: JP
