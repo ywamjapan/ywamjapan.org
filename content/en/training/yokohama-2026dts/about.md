@@ -34,10 +34,10 @@ design:
 ## Details
 
 * **UofN Code:** DSP 211/212
-* **Start date:** 2025-03-01
+* **Start date:** 2026-03-01
 * **Length:** 23 Weeks
 * **Language(s):** English, Japanese
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** East Kanagawa, Kanto
-* **Last Updated:** 2024-09-10
+* **Last Updated:** 2026-06-11

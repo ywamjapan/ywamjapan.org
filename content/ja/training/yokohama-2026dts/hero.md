@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: 弟子訓練学校２０２５年
+title: 弟子訓練学校２０２６年
 #hero_media:
 cta:
   label: '**横浜ワイワム、神奈川東部**'
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-学校｜２０２５年３月１日｜神奈川県東部・横浜市
+学校｜２０２６年３月１日｜神奈川県東部・横浜市
