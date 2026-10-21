@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: 2025 Discipleship Training School
+title: 2027 Discipleship Training School
 #hero_media:
 cta:
   label: '**YWAM Takatsuki, North Osaka**'
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-August 2025
+3 February 2027
