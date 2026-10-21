@@ -44,10 +44,10 @@ The Discipleship Training School (DTS) is a six month Christian course designed 
 ## Details
 
 * **UofN Code:** DSP 211/212
-* **Start date:** 2025-08
+* **Start date:** 2027-02-03
 * **Length:** 22 Weeks
 * **Language(s):** English, Japanese
 * **Outreach Locations:** N/A
 * **Related Passion:** N/A
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** North Osaka, Kansai
-* **Last Updated:** 2024-09-10
+* **Last Updated:** 2026-10-21
