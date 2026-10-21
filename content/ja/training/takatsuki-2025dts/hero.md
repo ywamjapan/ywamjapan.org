@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: 弟子訓練学校２０２５年
+title: 弟子訓練学校２０２７年
 #hero_media:
 cta:
   label: '**高槻ワイワム、大阪府北部**'
@@ -30,4 +30,4 @@ design:
       padding: ["200px", "0", "200px", "0"]
 ---
 
-学校｜２０２５年８月｜大阪府北部・高槻市
+学校｜２０２７年２月３日｜大阪府北部・高槻市
