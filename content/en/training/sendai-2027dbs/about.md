@@ -24,7 +24,7 @@ It is especially for those who desire to know God and to make Him known to the J
 
 ## Details
 
-* **Start date:** April 2027
+* **Start date:** 2027
 * **Length:** 12 Weeks
 * **Language(s):** English, Japanese
 * **[Omega Zone & Region]({{< ref "../../omegazones.md" >}}):** Miyagi, Tohoku
