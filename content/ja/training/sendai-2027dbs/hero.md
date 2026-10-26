@@ -51,4 +51,4 @@ title = "２０２７ＤＢＳ（弟子聖書学校）"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-学校｜２０２７年４月｜宮城県・仙台市
+学校｜２０２７年｜宮城県・仙台市
