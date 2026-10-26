@@ -51,4 +51,4 @@ title = "2027 Discipleship Bible School"
   # label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-April 2027
+2027
